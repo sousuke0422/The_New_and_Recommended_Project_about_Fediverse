@@ -4,7 +4,7 @@
 このgitリポジトリは以下のブログ（Plume）記事内容のミラーです。<br>
 This pfoject is mirroed form my blog article below.<br><br>
 
-・私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
+・【随時更新】私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
 [EN Title]The New and Personal Recommended Project about Fediverse -Under Developing-<br>
 https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project
 <hr>
