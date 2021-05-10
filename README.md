@@ -26,8 +26,6 @@ In addition,this article is updated once two or three weeks.<br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-#10%E3%81%9D%E3%81%AE%E4%BB%96others" rel="noopener noreferrer">10.その他</a>(Others)
 
 ---
-<br>
-
 # <div id="Mastodon"><b>1.Mastodon</b></div>
 ・マストドン公式iOSアプリ(Official iOS App for Mastodon)<br>
 https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/<br>
