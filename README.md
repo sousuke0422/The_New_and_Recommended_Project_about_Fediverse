@@ -1,8 +1,8 @@
 # The New and Personal Recommended Project about Fediverse<br>
 # <center>-Under Developing-</center>
 
-このgitリポジトリは以下のブログ（Plume）記事内容のミラーです。<br>
-This pfoject is mirroed form my blog article below.<br><br>
+※このgitリポジトリは以下のブログ（Plume）記事内容のミラーです。<br>
+※This pfoject is mirroed form my blog article below.<br><br>
 
 ・【随時更新】私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
 ・[English Title]The New and Personal Recommended Project about Fediverse -Under Developing-<br>
@@ -19,8 +19,8 @@ https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#6lemmy" rel="noopener noreferrer">6.Lemmy</a><br>　RedditやHackerNewsなどの代替サービス（An alternative service for Reddit and HackerNews.)<br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#7japanese-developer-service" rel="noopener noreferrer">7.日本人が開発しているサービス</a>(Japanese Developer's Service)<br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#8hosting-service-for-distributed-sns" rel="noopener noreferrer">8.分散SNSのホスティングサービス</a>（Hosting Service for DecentralisedSNS）<br>
-<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-ProtocolandDocumentation" rel="noopener noreferrer">9.プロトコルやドキュメント等</a>(Protocol and Documentation）<br>
-<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-Others" rel="noopener noreferrer">10.その他</a>(Others)
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#9protocol-and-documentation" rel="noopener noreferrer">9.プロトコルやドキュメント等</a>(Protocol and Documentation）<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#10others" rel="noopener noreferrer">10.その他</a>(Others)
 
 ---
 <br>
