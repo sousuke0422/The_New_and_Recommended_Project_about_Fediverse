@@ -5,13 +5,13 @@
 このプロジェクトは以下のブログ（Plume）記事内容のミラーです。<br>
 This pfoject is mirroed form my blog article below.<br><br>
 
-[記事タイトル]私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
-[Article Title]The New and Personal Recommended Project about Fediverse -Under Developing-<br>
+・私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
+[EN Title]The New and Personal Recommended Project about Fediverse -Under Developing-<br>
 https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project
 <hr>
 <br><br>
----
-## <b>目次（Table of Contents）</b><br>
+
+<b>目次（Table of Contents）</b><br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#1mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#postcontent-Pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-Misskey" rel="noopener noreferrer">3.Misskey</a><br>
