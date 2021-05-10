@@ -12,7 +12,7 @@ https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-
 <br><br>
 ---
 ## <b>目次（Table of Contents）</b><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#postcontent-Mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#1mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#postcontent-Pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-Misskey" rel="noopener noreferrer">3.Misskey</a><br>
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-PixelFed" rel="noopener noreferrer">4.PixelFed</a><br>　インスタグラムやFlickerなどの代替サービス（An alternative service for Instagram and Flicker.)<br>
