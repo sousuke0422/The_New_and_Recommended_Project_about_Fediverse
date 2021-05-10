@@ -1,5 +1,5 @@
 # The New and Personal Recommended Project about Fediverse<br>
--Under Developing-
+# -Under Developing-
 
 このプロジェクトは下記のブログ（Plume）記事のミラーです。
 This pfoject is mirroed form my blog article below.
