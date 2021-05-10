@@ -9,13 +9,13 @@ This pfoject is mirroed form my blog article below.<br><br>
 [EN Title]The New and Personal Recommended Project about Fediverse -Under Developing-<br>
 https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project
 <hr>
-<br><br>
+<br>
 
 <b>目次（Table of Contents）</b><br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#1mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#postcontent-Pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
-<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-Misskey" rel="noopener noreferrer">3.Misskey</a><br>
-<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-PixelFed" rel="noopener noreferrer">4.PixelFed</a><br>　インスタグラムやFlickerなどの代替サービス（An alternative service for Instagram and Flicker.)<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#2pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#3misskey" rel="noopener noreferrer">3.Misskey</a><br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#4pixelFed" rel="noopener noreferrer">4.PixelFed</a><br>　インスタグラムやFlickerなどの代替サービス（An alternative service for Instagram and Flicker.)<br>
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-PeerTube" rel="noopener noreferrer">5.PeerTube</a><br>　YoutubeやDailymotionなどの代替サービス（An alternative service for Youtube and Dailymotion.)<br>
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-Lemmy" rel="noopener noreferrer">6.Lemmy</a><br>　RedditやHackerNewsなどの代替サービス（An alternative service for Reddit and HackerNews.)<br>
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-JapaneseDeveloperService" rel="noopener noreferrer">7.日本人が開発しているサービス</a>(Japanese Developer's Service)<br>
