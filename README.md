@@ -1,8 +1,10 @@
 # The New and Personal Recommended Project about Fediverse<br>
 # -Under Developing-
 
-このプロジェクトは下記のブログ（Plume）記事のミラーです。
-This pfoject is mirroed form my blog article below.
+<hr>
+このプロジェクトは下記のブログ（Plume）記事のミラーです。<br>
+This pfoject is mirroed form my blog article below.<br>
+<hr>
 
 [記事タイトル]私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-
 [Article Title]The New and Personal Recommended Project about Fediverse -Under Developing-
