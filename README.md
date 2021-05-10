@@ -3,18 +3,13 @@
 
 <hr>
 このプロジェクトは下記のブログ（Plume）記事のミラーです。<br>
-This pfoject is mirroed form my blog article below.<br>
-<hr>
+This pfoject is mirroed form my blog article below.<br><br>
 
 [記事タイトル]私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-
 [Article Title]The New and Personal Recommended Project about Fediverse -Under Developing-
-https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project　のミラーです。<br><br>
-　日々fediverseや分散SNSの情報を収集していると、それらにまつわるアプリやサービスをぽつぽつと見つけることがあります。その度にできるだけトゥートでご紹介してきましたが、自分の情報の整理もかねてこの記事にこれまで見つけてきたサービスやアプリをまとめていこうと考えています。みなさんがまだ目にしたことのないような、または個人的にオススメしたいプロジェクトを中心にご紹介していきます。<br>
-　なおこの記事は新たなfediverseおよび分散SNSのアプリやサービスを見つけ次第、随時更新する予定です。<br><br>
-　When I gather the fediverse and distributedSNS's news and information almost everyday,I find some interesting app and service projects.I often tooted about these projects from my mastodon account as daily activity.But if you missed these,I'm sad you miss the opportunity to know these. So in this article,I want to reintroduce particulary the new and personally recommended projects.<br>
- In addition,this article is updated once two or three weeks.<br><br>
-
-
+https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project
+<hr>
+<br><br>
 ---
 ## <b>目次（Table of Contents）</b><br>
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project/#postcontent-Mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
