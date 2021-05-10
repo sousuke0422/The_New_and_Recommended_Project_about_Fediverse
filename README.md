@@ -27,7 +27,6 @@ In addition,this article is updated once two or three weeks.<br>
 
 ---
 <br>
-<br>
 
 # <div id="Mastodon"><b>1.Mastodon</b></div>
 ・マストドン公式iOSアプリ(Official iOS App for Mastodon)<br>
