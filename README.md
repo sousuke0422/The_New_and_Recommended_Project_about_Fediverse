@@ -1,4 +1,4 @@
-# The-New-and-Personal-Recommended-Project-about-Fediverse-and-DecentralisedSNS
+# The New and Personal Recommended Project about Fediverse -Under Developing-
 https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project　のミラーです。<br><br>
 　日々fediverseや分散SNSの情報を収集していると、それらにまつわるアプリやサービスをぽつぽつと見つけることがあります。その度にできるだけトゥートでご紹介してきましたが、自分の情報の整理もかねてこの記事にこれまで見つけてきたサービスやアプリをまとめていこうと考えています。みなさんがまだ目にしたことのないような、または個人的にオススメしたいプロジェクトを中心にご紹介していきます。<br>
 　なおこの記事は新たなfediverseおよび分散SNSのアプリやサービスを見つけ次第、随時更新する予定です。<br><br>
