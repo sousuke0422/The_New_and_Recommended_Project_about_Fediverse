@@ -2,7 +2,7 @@
 # -Under Developing-
 
 <hr>
-このプロジェクトは以下のブログ（Plume）記事内容のミラーです。<br>
+このgitリポジトリは以下のブログ（Plume）記事内容のミラーです。<br>
 This pfoject is mirroed form my blog article below.<br><br>
 
 ・私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
