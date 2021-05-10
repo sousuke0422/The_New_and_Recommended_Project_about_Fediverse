@@ -1,7 +1,6 @@
 # The New and Personal Recommended Project about Fediverse<br>
 # -Under Developing-
 
-<hr>
 このgitリポジトリは以下のブログ（Plume）記事内容のミラーです。<br>
 This pfoject is mirroed form my blog article below.<br><br>
 
