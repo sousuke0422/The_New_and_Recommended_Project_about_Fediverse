@@ -200,7 +200,7 @@ Gitリポジトリ（Git Repository）: https://github.com/mrbotchi-team/mrbotch
 開発原案(Plan for developing): https://scrapbox.io/xeltica/Shrimoon<br>
 開発者アカウント(Developer's account): @ebi@misskey.io
 
-# <div id="HostingServiceforDistributedSNS"><b>8.分散SNSのホスティングサービス(Hosting Service for DistributedSNS）</b></div>
+# <div id="HostingServiceforDistributedSNS"><b>8.分散SNSのホスティングサービス(Hosting Service for DecentralisedSNS）</b></div>
 ・Tribes<br>
 公式サイト（Official Site）: https://tribes.host/<br>
 >Pleroma Hosting Service.It is be in α stage currently.<br>
