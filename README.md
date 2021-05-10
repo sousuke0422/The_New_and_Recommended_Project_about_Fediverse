@@ -1,5 +1,5 @@
 # The-New-and-Personal-Recommended-Project-about-Fediverse-and-DecentralisedSNS
-https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project　のミラーです。<br>
+https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project　のミラーです。<br><br>
 　日々fediverseや分散SNSの情報を収集していると、それらにまつわるアプリやサービスをぽつぽつと見つけることがあります。その度にできるだけトゥートでご紹介してきましたが、自分の情報の整理もかねてこの記事にこれまで見つけてきたサービスやアプリをまとめていこうと考えています。みなさんがまだ目にしたことのないような、または個人的にオススメしたいプロジェクトを中心にご紹介していきます。<br>
 　なおこの記事は新たなfediverseおよび分散SNSのアプリやサービスを見つけ次第、随時更新する予定です。<br><br>
 　When I gather the fediverse and distributedSNS's news and information almost everyday,I find some interesting app and service projects.I often tooted about these projects from my mastodon account as daily activity.But if you missed these,I'm sad you miss the opportunity to know these. So in this article,I want to reintroduce particulary the new and personally recommended projects.<br>
@@ -27,6 +27,7 @@ https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-
 ・マストドン公式iOSアプリ(Official iOS App for Mastodon)<br>
 https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/<br>
  >We will focus on developing an official, open-source iOS app first. I have compiled a roadmap of features that a Mastodon app ought to have, with the first milestone being a Minimum Viable Product which we could get out on the App Store by summer. <br>
+
 　マストドンの公式iOSアプリのリリースが今夏に予定されています。先行してiOSアプリがリリースされ、Android版は後ほどリリースされるそうです。
 
 ・Starlight<br>
