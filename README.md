@@ -12,7 +12,7 @@ https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-
 
 　When I gather the fediverse and decentralisedSNS’s news and information almost everyday,I find some interesting app and service projects.I often tooted about these projects from my mastodon account as daily activity.But if you missed these,I’m sad you miss the opportunity to know these. So in this article,I want to reintroduce particulary the new and personally recommended projects.<br>
 In addition,this article is updated once two or three weeks.<br><br>
-
+<hr>
 <b>目次（Table of Contents）</b><br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#1mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#2pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
