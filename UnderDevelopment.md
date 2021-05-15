@@ -143,7 +143,7 @@ https://api.pleroma.social/<br>
 ・resin<br>
 Gitリポジトリ（Git Repository): https://github.com/natjms/resin<br>
  >The Pixelfed client you won't get addicted to <br>
-　
+
   Pixelfed向けの開発中のクライアントです。SNS中毒防止のためのエシカル（倫理的）なものを目指しているそうです。<br><br>
 ・Pixelcat<br>
 Gitリポジトリ（Git Repository): https://github.com/pixelcatapp/Pixelcat<br>
