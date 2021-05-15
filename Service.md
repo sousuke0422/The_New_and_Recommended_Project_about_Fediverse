@@ -3,7 +3,7 @@
 
 
 
-※このgitリポジトリは私のブログ（Plume）記事内容のミラーです。<br>
+※このgitリポジトリは以下の私のブログ（Plume）記事内容のミラーです。<br>
 
 ※This git repository is mirroring of my blog article below.<br><br>
 
