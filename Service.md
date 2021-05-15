@@ -232,19 +232,19 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
     ・Lemmy<br>
     ・Pleroma<br>
     ・Osada / Zap / Zot6<br>
-    ・XMPP<br>
+    ・XMPP<br><br>
 
 ・fedisearch<br>
 公式サイト(Official Site): https://fedisearch.com/<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
 
 ※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site.)<br>
-　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br>
+　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br><br>
 
 ・Search.Social<br>
 ※サイトが閉鎖されました。ご注意下さい。(Caution!This site is closed).※<br>
 公式サイト（Official Site)https://search.social/<br>
-　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br>
+　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br><br>
 
 # <div id="WriteFreely"><b>4.WriteFreely</b></div>
 ・WriteFreely<br>
@@ -274,7 +274,7 @@ Gitリポジトリ（Git Repository): https://github.com/writefreely/hugo-import
 ・Plume<br>
 公式サイト（Official Site）: https://joinplu.me/<br>
 Gitリポジトリ（Git Repository): https://github.com/Plume-org/Plume<br>
-　>Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) <br>
+ >Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) <br>
 
  MediumやNoteなどのブログサービスの代替サービスです。WriteFreelyと比べるとカラフルなUIと、カスタム性が魅力です。<br><br>
 
@@ -320,7 +320,7 @@ Gitリポジトリ（Git Repository): https://github.com/gordielachance/plugin.a
 ・PeerTube<br>
 公式サイト（Official Site）: https://joinpeertube.org/<br>
 Gitリポジトリ（Git Repository): https://github.com/Chocobozzz/PeerTube<br>
-　>ActivityPub-federated video streaming platform using P2P directly in your web browser<br>
+ >ActivityPub-federated video streaming platform using P2P directly in your web browser<br>
 
 　YoutubeやDailymotionなどの動画サイトの代替サービスです。<br><br>
 
@@ -380,7 +380,7 @@ GroundpolisはMisskeyをベースにした、fediverseという宇宙の中で�
 ・misshaialert<br>
 Gitリポジトリ（Git Repository）: https://github.com/Xeltica/misshaialert<br>
 開発者アカウント(Developer’s account): @ebi@misskey.io<br>
-　>みす廃あらーとは、Misskeyでのノート、フォロー、フォロワーの数および前日比を毎日0時にノートするサービスです。
+ >みす廃あらーとは、Misskeyでのノート、フォロー、フォロワーの数および前日比を毎日0時にノートするサービスです。
 
 <br><br>
 ・#InstanceTicker<br>
@@ -413,7 +413,7 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
 Gitリポジトリ（Git Repository): https://github.com/thefederationinfo/the-federation.info<br>
 >This site is for gathering statistics about nodes in the fediverse. Depending on the project, exposed statistics might have to be activated separately. To appear on this list, the node needs to be registered on this site separately, either manually or extracted from another list of nodes.<br>
 
-※現在ローメンテナンス状態のため不安定な状態です。（This site is unstable due to be maintained low.)
+※現在ローメンテナンス状態のため不安定な状態です。（This site is unstable due to be maintained low.)<br>
 !各分散SNSおよび連合ネットワークサービスの全サーバー情報を読み込むため表示に時間がかかります!<br>
 （※このサイトではいわゆる「federated universe(fediverse)」に属する分散SNSや「federation network(連合ネットワーク)」などの“federate“という単語に関係したサービスが一括でまとめられています。よって分散SNSだけでなく別のプロコトルに基づいて連合ネットワークを形成するXMPPやMatrixのサービスの情報も含まれるので、TOPページに表示されているそれぞれの統計値やチャートはそういったことを踏まえた上で表示されていることを念頭においてお使い下さい）<br>
 　TOPページのProjectsの項目では現在サーバーがある分散SNSの中で、サーバーが多い順に各分散SNSがリスト形式で紹介されています。上から順に下がっていくほどに、新興の分散SNSおよび連合ネットワークサービスが掲載されており、新興の分散SNSや連合ネットワークサービスをチェックするのに便利です。またProtoclではactivitypubを中心に様々なプロトコルがこちらもリスト形式で紹介されています。<br>
@@ -565,8 +565,8 @@ Gitリポジトリ（Git Repository): https://github.com/framasoft/mobilizon<br>
 ・castling.club<br>
 公式サーバー（Official Instance): https://castling.club/<br>
 Gitリポジトリ（Git Repository): https://github.com/stephank/castling.club<br>
-
 >Challenge someone to a game of chess using toots!<br>
+
 　チェスをすることができる分散SNSプロジェクトです。<br><br>
 
 ・micromic<br>
