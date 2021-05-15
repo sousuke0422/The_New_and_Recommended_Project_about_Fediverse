@@ -51,19 +51,19 @@ In addition,this article is updated once two or three weeks.<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
 
-　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。<br>
+　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。<br><br>
 
 ・GORF-FE<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/gorfdotcom/gorf-fe<br>
  >Frontend for Pleroma and Mastodon<br>
  
- Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。<br>
+ Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。<br><br>
 
 ・mastotool<br>
 Gitリポジトリ（Git Repository): https://github.com/muesli/mastotool<br>
 >A collection of command-line tools to work with your Mastodon account<br>
 
-　マストドンのアカウントに対応したCLIツール。トゥートの検索やトゥート数などの統計が見れる。<br>
+　マストドンのアカウントに対応したCLIツール。トゥートの検索やトゥート数などの統計が見れる。<br><br>
 
 ・Share freedom-extension<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-extension<br>
@@ -79,70 +79,70 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
     ・Lemmy<br>
     ・Pleroma<br>
     ・Osada / Zap / Zot6<br>
-    ・XMPP<br>
+    ・XMPP<br><br>
 
 
 ・FediPlan<br>
 Gitリポジトリ（Git Repository): https://framagit.org/tom79/fediplan<br>
 >A way to safely schedule messages with Mastodon and Pleroma<br>
 
-　マストドンとPleromaで事前にスケジューリングした投稿ができるツールです。<br>
+　マストドンとPleromaで事前にスケジューリングした投稿ができるツールです。<br><br>
 
 ・mastodon-simplified-federation<br>
 Gitリポジトリ（Git Repository): https://github.com/rugk/mastodon-simplified-federation<br>
  >Simplifies following and interacting with remote users on other Mastodon instances. (add-on firefox)<br>
 
- 他のマストドンサーバーに属するリモートユーザーをフォローする際に便利な、firefoxブラウザー向けのアドオンです。<br>
+ 他のマストドンサーバーに属するリモートユーザーをフォローする際に便利な、firefoxブラウザー向けのアドオンです。<br><br>
 
 ・mastodon-twitter-poster<br>
 Gitリポジトリ（Git Repository): https://github.com/renatolond/mastodon-twitter-poster<br>
 デモサイト（Demo Site）:https://crossposter.masto.donte.com<br>
 >This is an app for crossposting between Mastodon and Twitter. The app is made so that multiple users can connect to it using the OAuth interface from both Twitter and Mastodon and choose options on how the crosspost should work.<br>
 
-　マストドンとツイッターでクロスポスト（同時投稿）ができるツールです。マルチクライアントに対応しています。<br>
+　マストドンとツイッターでクロスポスト（同時投稿）ができるツールです。マルチクライアントに対応しています。<br><br>
 
 ・moa<br>
 公式サイト（Official Site）: https://moa.party/<br>
 Gitリポジトリ（Git Repository): https://github.com/foozmeat/moa<br>
  >A Mastodon, Twitter, and Instagram Cross-poster<br>
  
-　マストドンとTwitterとインスタグラムへのクロスポストができるサイトです（現在インスタグラムへのクロスポストの機能は停止されています）。<br>
+　マストドンとTwitterとインスタグラムへのクロスポストができるサイトです（現在インスタグラムへのクロスポストの機能は停止されています）。<br><br>
 
 ・mastodonGlitchEdition<br>
 公式サイト（Official Site）: https://glitch-soc.github.io/docs/<br>
 Gitリポジトリ（Git Repository)：https://github.com/glitch-soc/mastodon/<br>
 　One of the mastodon folk.<br>
-　マストドンのフォークの一つです。<br>
+　マストドンのフォークの一つです。<br><br>
 
 ・hometown<br>
 Gitリポジトリ（Git Repository):https://github.com/hometown-fork/hometown<br>
 >A supported fork of Mastodon that provides local posting and a wider range of content types.<br>
 
-　マストドンの軽量版フォーク。Local-onlyとFederatedの二つしか公開範囲を指定できないのが特徴的。またリストには表示されるが、HTLにフォローしている人のトゥートが表示されない機能などがある。<br>
+　マストドンの軽量版フォーク。Local-onlyとFederatedの二つしか公開範囲を指定できないのが特徴的。またリストには表示されるが、HTLにフォローしている人のトゥートが表示されない機能などがある。<br><br>
 
 ・Corgidon<br>
 公式サイト（Official Site）: https://banana.dog/<br>
 Gitリポジトリ（Git Repository): https://github.com/msdos621/corgidon<br>
 　One of the mastodon folk for banana.dog .<br>
-　https://banana.dog/ サーバー専用のマストドンのフォークの一つです。<br>
+　https://banana.dog/ サーバー専用のマストドンのフォークの一つです。<br><br>
 
 ・Mastopeek<br>
 公式サイト（Official Site): https://mastopeek.app-dist.eu/<br>
 ※マストドンサーバーAPIのフェッチエラーが起きるため、利用できません。ご注意下さい。(Caution!This site can't be used due to disable of fettching error about mastodon Server API).※<br>
 !mastodonの全サーバー情報を読み込むため表示に少しだけ時間がかかります!<br>
-　Masotodonのサーバーを探すのに便利です。サーバー・ユーザー・Statuses(おそらく投稿数）・言語・バージョンごとに調べることができます。各サーバーのリンクをクリックすれば、日・週・月間などの期間ごとのユーザーの動きの情報をまとめたチャート等の情報も合わせて表示されます。<br>
+　Masotodonのサーバーを探すのに便利です。サーバー・ユーザー・Statuses(おそらく投稿数）・言語・バージョンごとに調べることができます。各サーバーのリンクをクリックすれば、日・週・月間などの期間ごとのユーザーの動きの情報をまとめたチャート等の情報も合わせて表示されます。<br><br>
 
 ・fedisearch<br>
 公式サイト（Official Site): https://fedisearch.com/<br>
 ※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site ).※<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
 
-　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br>
+　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br><br>
 
 ・Search.Social<br>
 ※サイトが閉鎖されました。ご注意下さい。(Caution!This site is closed).※<br>
 公式サイト（Official Site)https://search.social/<br>
-　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br>
+　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br><br>
 
 ・tootgroup.py<br>
 Gitリポジトリ（Git Repository): https://github.com/oe4dns/tootgroup.py<br>
@@ -156,7 +156,7 @@ Gitリポジトリ（Git Repository): https://github.com/oe4dns/tootgroup.py<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/soapbox-pub/soapbox<br>
 >A federated social media server with a focus on user experience.<br>
 
-　Pleromaフォークの新しい分散型SNSです。<br>
+　Pleromaフォークの新しい分散型SNSです。<br><br>
 
 ・Soapbox-FE<br>
 公式サイト（Official Site）: https://soapbox.pub/<br>
@@ -164,7 +164,7 @@ Gitリポジトリ（Git Repository): https://gitlab.com/soapbox-pub/soapbox-fe/
 >A frontend for Pleroma with a focus on custom branding and ease of use.<br>
 
 Pleroma向けのフロントエンドUIです。<br>
-実験的ですが寄付機能をUI上に表示させることができます。<br>
+実験的ですが寄付機能をUI上に表示させることができます。<br><br>
 
 
 ・Share freedom-extension<br>
@@ -181,46 +181,46 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
     ・Lemmy<br>
     ・Pleroma<br>
     ・Osada / Zap / Zot6<br>
-    ・XMPP<br>
+    ・XMPP<br><br>
 
 
 ・DashboardFE<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
 
-　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。<br>
+　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。<br><br>
 
 ・GORF-FE<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/gorfdotcom/gorf-fe<br>
  >Frontend for Pleroma and Mastodon<br>
 
- Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。<br>
+ Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。<br><br>
 
 ・FediPlan<br>
 Gitリポジトリ（Git Repository): https://framagit.org/tom79/fediplan<br>
 >A way to safely schedule messages with Mastodon and Pleroma<br>
 
-　マストドンとPleromaでスケジューリングした投稿ができるツールです。<br>
+　マストドンとPleromaでスケジューリングした投稿ができるツールです。<br><br>
 
 ・Pleroma-FE configuration and customization for instance administrators<br>
 https://docs-develop.pleroma.social/frontend/CONFIGURATION/<br>
-Pleroma-FEの設定およびカスタマイズガイドです。海外のサーバーでは大幅に改造されてることが多く、一度そういったサーバーに覗きに行くと参考になるかもしれません。<br>
+Pleroma-FEの設定およびカスタマイズガイドです。海外のサーバーでは大幅に改造されてることが多く、一度そういったサーバーに覗きに行くと参考になるかもしれません。<br><br>
 
 ・Pleroma Theme Repository<br>
 公式サイト（Official Site）: https://plthemes.vulpes.one/<br>
- 個人が運営されている、Pleromaテーマのリポジトリです。<br>
+ 個人が運営されている、Pleromaテーマのリポジトリです。<br><br>
 
 ・fedisearch<br>
 公式サイト（Official Site）: https://fedisearch.com/<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
 
 ※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site.)<br>
-　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br>
+　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br><br>
 
 ・Search.Social<br>
 ※サイトが閉鎖されました。ご注意下さい。(Caution!This site is closed).※<br>
 公式サイト（Official Site)https://search.social/<br>
-　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br>
+　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br><br>
 
 
 # <div id="Misskey"><b>3.Misskey</b></div>
