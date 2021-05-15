@@ -2,7 +2,7 @@
 # <center>-Under Development-</center>
 
 ※このgitは私の以下のブログ（Plume）記事に反映されます。<br>
-※This git repository reflects my blog(Plume) article below.<br><br>
+※This git reflects my blog(Plume) article below.<br><br>
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project">【随時更新】私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
 [EN Title]The New and Personal Recommended Project about Fediverse -Under Development-</a><br>
 
