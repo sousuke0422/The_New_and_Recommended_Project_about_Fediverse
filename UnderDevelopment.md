@@ -275,8 +275,8 @@ Gitリポジトリ（Git Repository): https://gitlab.com/kazarma/kazarma<br>
 ・Castopod Host<br>
 公式サイト（Official Site）: https://podlibre.org/tag/castopod-host/<br>
 Gitリポジトリ（Git Repository): https://code.podlibre.org/podlibre/castopod<br>
-　>Castopod Host is an open-source server made for podcasters who want engage and interact with their audience. Please note that Castopod Host is still under heavy development: it may not be 100% stable and some features are still being developed.<br>
-　
+ >Castopod Host is an open-source server made for podcasters who want engage and interact with their audience. Please note that Castopod Host is still under heavy development: it may not be 100% stable and some features are still being developed.<br>
+
 　ポッドキャスト専用サーバーです。ActivityPubを利用して分散SNSのユーザーを対象に、ポッドキャスト配信に関するニュース等を共有することができます。<br><br>
 
 ・Fediverse-Action<br>
