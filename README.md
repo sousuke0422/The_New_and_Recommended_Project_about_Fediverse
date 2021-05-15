@@ -13,7 +13,7 @@ This article series are splited into fourth.<br><br>
 
 <b>Your issue and Pull request are welcome!!</b><br>
 But this is my side project and be under low maintenance.<br>
-Currently,the reflection for my blog articles is done once in 2-3weeks.<br><br>
+Currently,the reflection for my blog article series is done once in 2-3weeks.<br><br>
 
 License:<br>
-All articles and activity under CC BY-SA 4.0
+All git,articles and activity under CC BY-SA 4.0
