@@ -30,11 +30,11 @@ In addition,this article is updated once two or three weeks.<br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#6funkwhale" rel="noopener noreferrer">6.FunkWhale</a><br>　インスタグラムやFlickerなどの代替サービス（An alternative service for Instagram and Flicker.)<br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#7peerTube" rel="noopener noreferrer">7.PeerTube</a><br>　YoutubeやDailymotionなどの代替サービス（An alternative service for Youtube and Dailymotion.)<br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#8lemmy" rel="noopener noreferrer">8.Lemmy</a><br>　RedditやHackerNewsなどの代替サービス（An alternative service for Reddit and HackerNews.)<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#9japanese-developer-service" rel="noopener noreferrer">9.日本人が開発しているサービス</a>(Japanese Developer's Service)<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#9%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%8C%E9%96%8B%E7%99%BA%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9japanese-developers-service" rel="noopener noreferrer">9.日本人が開発しているサービス</a>(Japanese Developer's Service)<br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#10fediverse" rel="noopener noreferrer">10.fediverse</a><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse#8%E5%88%86%E6%95%A3sns%E3%81%AE%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9hosting-service-for-decentralisedsns" rel="noopener noreferrer">11.分散SNSのホスティングサービス</a>（Hosting Service for DecentralisedSNS）<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse#9%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E3%81%8A%E3%82%88%E3%81%B3%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E7%AD%89protocol-and-documentation" rel="noopener noreferrer">12.プロトコルやドキュメント等</a>(Protocol and Documentation）<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse#10%E3%81%9D%E3%81%AE%E4%BB%96others" rel="noopener noreferrer">13.その他</a>(Others)
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#11%E5%88%86%E6%95%A3sns%E3%81%AE%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9hosting-service-for-decentralisedsns" rel="noopener noreferrer">11.分散SNSのホスティングサービス</a>（Hosting Service for DecentralisedSNS）<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#12%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E3%81%8A%E3%82%88%E3%81%B3%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E7%AD%89protocol-and-documentation" rel="noopener noreferrer">12.プロトコルやドキュメント等</a>(Protocol and Documentation）<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/Service.md/#13%E3%81%9D%E3%81%AE%E4%BB%96others" rel="noopener noreferrer">13.その他</a>(Others)
 
 
 
@@ -584,15 +584,9 @@ Gitリポジトリ（Git Repository): https://github.com/tsileo/microblog.pub<br
 
 ・pump.io<br>
 公式サイト（Official Site）: https://github.com/pump-io/pump.io<br>
- >This is pump.io. It's a stream server that does most of what people really want from a social network.<br><br>
+ >This is pump.io. It's a stream server that does most of what people really want from a social network.
 
 <br><br><br><br>
 
 それでは以上です。<br>
-Have a nice fedi life!<br><br><br><br>
-
-
-Liberapay: https://liberapay.com/4ioskd<br>
-Patreon.com: https://www.patreon.com/DignifiedSilence<br>
-干し芋リスト https://www.amazon.co.jp/hz/wishlist/ls/3OME4FO5EZ7H3?ref_=wl_share<br>
-ディグニ's キッチン https://www.amazon.co.jp/hz/wishlist/ls/3AA59RBERRECV?ref_=wl_share
+Have a nice fedi life!
