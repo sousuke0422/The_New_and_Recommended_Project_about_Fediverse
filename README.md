@@ -3,13 +3,13 @@ This git repository reflects my blog articles "The New and Personal Recommended 
 These blog articles is splited into fourth.<br><br>
 
 ・Desktop and Web Client Application<br>
- This article mainly include desktop nad web client's applications for a fediverse server side application.<br>
+ This article mainly include desktop nad web client's applications for a fediverse server side application.<br><br>
 ・Mobile App<br>
- This article mainly include mobile(smartphone) app for a fediverse server side application.<br>
+ This article mainly include mobile(smartphone) app for a fediverse server side application.<br><br>
 ・Service<br>
- This article mainly include useful service about fediverse.<br>
+ This article mainly include useful service about fediverse.<br><br>
 ・Under Developing<br>
- This article mainly include all the above about fediverse under development.<br>
+ This article mainly include all the above about fediverse under development.<br><br>
 
 <b>Your issue and Pull request are welcome!!</b><br>
 But this is my side project and be under low maintenance.<br>
