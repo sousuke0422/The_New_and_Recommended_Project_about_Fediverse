@@ -1,10 +1,10 @@
 # The New and Personal Recommended Project about Fediverse<br>
 # <center>-Under Development-</center>
 
-※このgitリポジトリは私のブログ（Plume）記事内容のミラーです。<br>
-※This git repository is mirroring of my blog article below.<br><br>
+※このgitリポジトリは私のブログ（Plume）記事に反映されます。<br>
+※This git repository reflects my blog article below.<br><br>
 ・【随時更新】私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
-・[EN Title]The New and Personal Recommended Project about Fediverse -Under Developing-<br>
+・[EN Title]The New and Personal Recommended Project about Fediverse -Under Development-<br>
 https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project
 <hr>
 　日々fediverseや分散SNSの情報を収集していると、それらにまつわるアプリやサービスをぽつぽつと見つけることがあります。その度にできるだけトゥートでご紹介してきましたが、自分の情報の整理もかねてこの記事にこれまで見つけてきたサービスやアプリをまとめていこうと考えています。みなさんがまだ目にしたことのないような、または個人的にオススメしたいプロジェクトを中心にご紹介していきます。<br>
