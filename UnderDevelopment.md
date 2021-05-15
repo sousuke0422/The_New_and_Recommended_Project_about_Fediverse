@@ -1,9 +1,9 @@
 # The New and Personal Recommended Project about Fediverse<br>
 # <center>-Under Development-</center>
 
-※このgitリポジトリは私のブログ（Plume）記事に反映されます。<br>
+※このgitは私の以下のブログ（Plume）記事に反映されます。<br>
 ※This git repository reflects my blog(Plume) article below.<br><br>
-<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project">・【随時更新】私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
+<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project">【随時更新】私的：fediverseおよび分散SNSに関するプロジェクト集-開発中のプロジェクト編-<br>
 [EN Title]The New and Personal Recommended Project about Fediverse -Under Development-</a><br>
 
 <hr>
@@ -14,16 +14,16 @@
 In addition,this article is updated once two or three weeks.<br>
 <hr>
 <b>目次（Table of Contents）</b><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#1mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#2pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#3misskey" rel="noopener noreferrer">3.Misskey</a><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#4pixelFed" rel="noopener noreferrer">4.PixelFed</a><br>　インスタグラムやFlickerなどの代替サービス（An alternative service for Instagram and Flicker.)<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#5peerTube" rel="noopener noreferrer">5.PeerTube</a><br>　YoutubeやDailymotionなどの代替サービス（An alternative service for Youtube and Dailymotion.)<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#6lemmy" rel="noopener noreferrer">6.Lemmy</a><br>　RedditやHackerNewsなどの代替サービス（An alternative service for Reddit and HackerNews.)<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-/blob/main/README.md/#7japanese-developer-service" rel="noopener noreferrer">7.日本人が開発しているサービス</a>(Japanese Developer's Service)<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-#8%E5%88%86%E6%95%A3sns%E3%81%AE%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9hosting-service-for-decentralisedsns" rel="noopener noreferrer">8.分散SNSのホスティングサービス</a>（Hosting Service for DecentralisedSNS）<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-#9%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E3%81%8A%E3%82%88%E3%81%B3%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E7%AD%89protocol-and-documentation" rel="noopener noreferrer">9.プロトコルやドキュメント等</a>(Protocol and Documentation）<br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse-UnderDeveloping-#10%E3%81%9D%E3%81%AE%E4%BB%96others" rel="noopener noreferrer">10.その他</a>(Others)
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/README.md/#1mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/README.md/#2pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#3misskey" rel="noopener noreferrer">3.Misskey</a><br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#4pixelFed" rel="noopener noreferrer">4.PixelFed</a><br>　インスタグラムやFlickerなどの代替サービス（An alternative service for Instagram and Flicker.)<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#5peerTube" rel="noopener noreferrer">5.PeerTube</a><br>　YoutubeやDailymotionなどの代替サービス（An alternative service for Youtube and Dailymotion.)<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#6lemmy" rel="noopener noreferrer">6.Lemmy</a><br>　RedditやHackerNewsなどの代替サービス（An alternative service for Reddit and HackerNews.)<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#7japanese-developer-service" rel="noopener noreferrer">7.日本人が開発しているサービス</a>(Japanese Developer's Service)<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md#8%E5%88%86%E6%95%A3sns%E3%81%AE%E3%83%9B%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9hosting-service-for-decentralisedsns" rel="noopener noreferrer">8.分散SNSのホスティングサービス</a>（Hosting Service for DecentralisedSNS）<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md#9%E3%83%97%E3%83%AD%E3%83%88%E3%82%B3%E3%83%AB%E3%81%8A%E3%82%88%E3%81%B3%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E7%AD%89protocol-and-documentation" rel="noopener noreferrer">9.プロトコルやドキュメント等</a>(Protocol and Documentation）<br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md#10%E3%81%9D%E3%81%AE%E4%BB%96others" rel="noopener noreferrer">10.その他</a>(Others)
 
 ---
 # <div id="Mastodon"><b>1.Mastodon</b></div>
