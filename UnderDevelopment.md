@@ -137,12 +137,12 @@ https://api.pleroma.social/<br>
 # <div id="PixelFed"><b>4.Pixelfed</b></div>
 ・JoinPixelfed beta<br>
 公式サイト（Official Site）: https://beta.joinpixelfed.org/<br>
-　>Pixelfed's instance picker site.I guess that it is a beta version.But so useful of searching the Pixelfed instance.<br>
+ >Pixelfed's instance picker site.I guess that it is a beta version.But so useful of searching the Pixelfed instance.<br>
 
   Pixelfedのサーバー検索サイトです。ベータ版のようですが、Pixelfedのサーバーを探すのには便利そうです。<br><br>
 ・resin<br>
 Gitリポジトリ（Git Repository): https://github.com/natjms/resin<br>
-　>The Pixelfed client you won't get addicted to <br>
+ >The Pixelfed client you won't get addicted to <br>
 　
   Pixelfed向けの開発中のクライアントです。SNS中毒防止のためのエシカル（倫理的）なものを目指しているそうです。<br><br>
 ・Pixelcat<br>
