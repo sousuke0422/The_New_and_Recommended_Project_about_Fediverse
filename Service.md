@@ -122,7 +122,7 @@ Gitリポジトリ（Git Repository): https://github.com/msdos621/corgidon<br>
 
 ・Mastopeek<br>
 公式サイト（Official Site): https://mastopeek.app-dist.eu/<br>
-※マストドンサーバーAPIのフェッチエラーが起きるため、利用できません。ご注意下さい。(Caution!This site can't be used due to disable of fettching error about mastodon Server API).※<br>
+※マストドンサーバー情報APIのフェッチエラーが起きるため、利用できません。ご注意下さい。(Caution!This site can't be used due to disable of fettching error from mastodon Server Infromation API).※<br>
 !mastodonの全サーバー情報を読み込むため表示に少しだけ時間がかかります!<br>
 　Masotodonのサーバーを探すのに便利です。サーバー・ユーザー・Statuses(おそらく投稿数）・言語・バージョンごとに調べることができます。各サーバーのリンクをクリックすれば、日・週・月間などの期間ごとのユーザーの動きの情報をまとめたチャート等の情報も合わせて表示されます。<br><br>
 
