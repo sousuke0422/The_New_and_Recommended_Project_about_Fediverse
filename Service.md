@@ -51,19 +51,19 @@ In addition,this article is updated once two or three weeks.<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
 
-　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。
+　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。<br>
 
 ・GORF-FE<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/gorfdotcom/gorf-fe<br>
  >Frontend for Pleroma and Mastodon<br>
  
- Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。
+ Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。<br>
 
 ・mastotool<br>
 Gitリポジトリ（Git Repository): https://github.com/muesli/mastotool<br>
 >A collection of command-line tools to work with your Mastodon account<br>
 
-　マストドンのアカウントに対応したCLIツール。トゥートの検索やトゥート数などの統計が見れる。
+　マストドンのアカウントに対応したCLIツール。トゥートの検索やトゥート数などの統計が見れる。<br>
 
 ・Share freedom-extension<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-extension<br>
@@ -79,76 +79,76 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
     ・Lemmy<br>
     ・Pleroma<br>
     ・Osada / Zap / Zot6<br>
-    ・XMPP
+    ・XMPP<br>
 
 
 ・FediPlan<br>
 Gitリポジトリ（Git Repository): https://framagit.org/tom79/fediplan<br>
 >A way to safely schedule messages with Mastodon and Pleroma<br>
 
-　マストドンとPleromaで事前にスケジューリングした投稿ができるツールです。
+　マストドンとPleromaで事前にスケジューリングした投稿ができるツールです。<br>
 
 ・mastodon-simplified-federation<br>
 Gitリポジトリ（Git Repository): https://github.com/rugk/mastodon-simplified-federation<br>
  >Simplifies following and interacting with remote users on other Mastodon instances. (add-on firefox)<br>
 
- 他のマストドンサーバーに属するリモートユーザーをフォローする際に便利な、firefoxブラウザー向けのアドオンです。
+ 他のマストドンサーバーに属するリモートユーザーをフォローする際に便利な、firefoxブラウザー向けのアドオンです。<br>
 
 ・mastodon-twitter-poster<br>
 Gitリポジトリ（Git Repository): https://github.com/renatolond/mastodon-twitter-poster<br>
 デモサイト（Demo Site）:https://crossposter.masto.donte.com<br>
 >This is an app for crossposting between Mastodon and Twitter. The app is made so that multiple users can connect to it using the OAuth interface from both Twitter and Mastodon and choose options on how the crosspost should work.<br>
 
-　マストドンとツイッターでクロスポスト（同時投稿）ができるツールです。マルチクライアントに対応しています。
+　マストドンとツイッターでクロスポスト（同時投稿）ができるツールです。マルチクライアントに対応しています。<br>
 
 ・moa<br>
 公式サイト（Official Site）: https://moa.party/<br>
 Gitリポジトリ（Git Repository): https://github.com/foozmeat/moa<br>
  >A Mastodon, Twitter, and Instagram Cross-poster<br>
  
-　マストドンとTwitterとインスタグラムへのクロスポストができるサイトです（現在インスタグラムへのクロスポストの機能は停止されています）。
+　マストドンとTwitterとインスタグラムへのクロスポストができるサイトです（現在インスタグラムへのクロスポストの機能は停止されています）。<br>
 
 ・mastodonGlitchEdition<br>
 公式サイト（Official Site）: https://glitch-soc.github.io/docs/<br>
 Gitリポジトリ（Git Repository)：https://github.com/glitch-soc/mastodon/<br>
 　One of the mastodon folk.<br>
-　マストドンのフォークの一つです。
+　マストドンのフォークの一つです。<br>
 
 ・hometown<br>
 Gitリポジトリ（Git Repository):https://github.com/hometown-fork/hometown<br>
 >A supported fork of Mastodon that provides local posting and a wider range of content types.<br>
 
-　マストドンの軽量版フォーク。Local-onlyとFederatedの二つしか公開範囲を指定できないのが特徴的。またリストには表示されるが、HTLにフォローしている人のトゥートが表示されない機能などがある
+　マストドンの軽量版フォーク。Local-onlyとFederatedの二つしか公開範囲を指定できないのが特徴的。またリストには表示されるが、HTLにフォローしている人のトゥートが表示されない機能などがある。<br>
 
 ・Corgidon<br>
 公式サイト（Official Site）: https://banana.dog/<br>
 Gitリポジトリ（Git Repository): https://github.com/msdos621/corgidon<br>
 　One of the mastodon folk for banana.dog .<br>
-　https://banana.dog/ サーバー専用のマストドンのフォークの一つです。
+　https://banana.dog/ サーバー専用のマストドンのフォークの一つです。<br>
 
 ・Mastopeek<br>
 公式サイト（Official Site): https://mastopeek.app-dist.eu/<br>
 ※マストドンサーバーAPIのフェッチエラーが起きるため、利用できません。ご注意下さい。(Caution!This site can't be used due to disable of fettching error about mastodon Server API).※<br>
 !mastodonの全サーバー情報を読み込むため表示に少しだけ時間がかかります!<br>
-　Masotodonのサーバーを探すのに便利です。サーバー・ユーザー・Statuses(おそらく投稿数）・言語・バージョンごとに調べることができます。各サーバーのリンクをクリックすれば、日・週・月間などの期間ごとのユーザーの動きの情報をまとめたチャート等の情報も合わせて表示されます。
+　Masotodonのサーバーを探すのに便利です。サーバー・ユーザー・Statuses(おそらく投稿数）・言語・バージョンごとに調べることができます。各サーバーのリンクをクリックすれば、日・週・月間などの期間ごとのユーザーの動きの情報をまとめたチャート等の情報も合わせて表示されます。<br>
 
 ・fedisearch<br>
 公式サイト（Official Site): https://fedisearch.com/<br>
 ※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site ).※<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
 
-　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。
+　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br>
 
 ・Search.Social<br>
 ※サイトが閉鎖されました。ご注意下さい。(Caution!This site is closed).※<br>
 公式サイト（Official Site)https://search.social/<br>
-　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。
+　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br>
 
 ・tootgroup.py<br>
 Gitリポジトリ（Git Repository): https://github.com/oe4dns/tootgroup.py<br>
  >emulate group accounts on Mastodon<br>
 
- マストドンでのグループアカウントのエミュレートができます。
+ マストドンでのグループアカウントのエミュレートができます。<br><br>
 
 # <div id="Pleroma"><b>2.Pleroma</b></div>
 ・Soapbox<br>
@@ -181,47 +181,46 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
     ・Lemmy<br>
     ・Pleroma<br>
     ・Osada / Zap / Zot6<br>
-    ・XMPP
-
+    ・XMPP<br>
 
 
 ・DashboardFE<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
 
-　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。
+　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。<br>
 
 ・GORF-FE<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/gorfdotcom/gorf-fe<br>
  >Frontend for Pleroma and Mastodon<br>
 
- Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。
+ Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。<br>
 
 ・FediPlan<br>
 Gitリポジトリ（Git Repository): https://framagit.org/tom79/fediplan<br>
 >A way to safely schedule messages with Mastodon and Pleroma<br>
 
-　マストドンとPleromaでスケジューリングした投稿ができるツールです。
+　マストドンとPleromaでスケジューリングした投稿ができるツールです。<br>
 
 ・Pleroma-FE configuration and customization for instance administrators<br>
 https://docs-develop.pleroma.social/frontend/CONFIGURATION/<br>
-Pleroma-FEの設定およびカスタマイズガイドです。海外のサーバーでは大幅に改造されてることが多く、一度そういったサーバーに覗きに行くと参考になるかもしれません。
+Pleroma-FEの設定およびカスタマイズガイドです。海外のサーバーでは大幅に改造されてることが多く、一度そういったサーバーに覗きに行くと参考になるかもしれません。<br>
 
 ・Pleroma Theme Repository<br>
 公式サイト（Official Site）: https://plthemes.vulpes.one/<br>
- 個人が運営されている、Pleromaテーマのリポジトリです。
+ 個人が運営されている、Pleromaテーマのリポジトリです。<br>
 
 ・fedisearch<br>
 公式サイト（Official Site）: https://fedisearch.com/<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
 
 ※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site.)<br>
-　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。
+　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br>
 
 ・Search.Social<br>
 ※サイトが閉鎖されました。ご注意下さい。(Caution!This site is closed).※<br>
 公式サイト（Official Site)https://search.social/<br>
-　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。
+　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br>
 
 
 # <div id="Misskey"><b>3.Misskey</b></div>
@@ -239,7 +238,7 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
     ・Lemmy<br>
     ・Pleroma<br>
     ・Osada / Zap / Zot6<br>
-    ・XMPP
+    ・XMPP<br>
 
 ・fedisearch<br>
 公式サイト(Official Site): https://fedisearch.com/<br>
@@ -251,7 +250,7 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
 ・Search.Social<br>
 ※サイトが閉鎖されました。ご注意下さい。(Caution!This site is closed).※<br>
 公式サイト（Official Site)https://search.social/<br>
-　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。
+　マストドン,Pleroma,misskeyのパブリックポストやプロフィールを特定のキーワードで検索できる検索エンジンでした。<br>
 
 # <div id="WriteFreely"><b>4.WriteFreely</b></div>
 ・WriteFreely<br>
@@ -259,13 +258,13 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
 Gitリポジトリ（Git Repository): https://github.com/writeas/writefreely<br>
 >WriteFreely is free and open source software for building a writing space on the web — whether a publication, internal blog, or writing community in the fediverse.<br>
 
-　MediumやNoteなどのブログサービスの代替サービスです。非常にシンプルなUIが特徴的です。
+　MediumやNoteなどのブログサービスの代替サービスです。非常にシンプルなUIが特徴的です。<br>
 
 ・WriteFreely.host<br>
 公式サイト（Official Site）: https://writefreely.host/<br>
 >Fully-managed WriteFreely hosting for small communities<br>
 
-　小さなコミュニティ向けに月10＄か100＄（おそらくアメリカドル）で運用できるホスティングサービスです。また個人向けのホスティングとしては自分で準備したサーバーに250＄（おそらくアメリカドル）でWriteFreely.hostが代理でインストールしてくれるサービスがあります。SSL証明書のセットアップもしてくれるそうです。
+　小さなコミュニティ向けに月10＄か100＄（おそらくアメリカドル）で運用できるホスティングサービスです。また個人向けのホスティングとしては自分で準備したサーバーに250＄（おそらくアメリカドル）でWriteFreely.hostが代理でインストールしてくれるサービスがあります。SSL証明書のセットアップもしてくれるそうです。<br>
 
 ・text-pic<br>
 https://github.com/writeas/text-pic<br>
@@ -275,7 +274,7 @@ https://github.com/writeas/text-pic<br>
 Gitリポジトリ（Git Repository): https://github.com/writefreely/hugo-importer<br>
  >CLI tool for migrating Hugo content to Write.as/WriteFreely<br>
 
- Hugoで生成したサイトをWrite.asおよびWritefreelyに移植させるCLIツールです。
+ Hugoで生成したサイトをWrite.asおよびWritefreelyに移植させるCLIツールです。<br>
 
 # <div id="Plume"><b>5.Plume</b></div>
 ・Plume<br>
@@ -283,25 +282,25 @@ Gitリポジトリ（Git Repository): https://github.com/writefreely/hugo-import
 Gitリポジトリ（Git Repository): https://github.com/Plume-org/Plume<br>
 　>Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) <br>
 
- MediumやNoteなどのブログサービスの代替サービスです。WriteFreelyと比べるとカラフルなUIと、カスタム性が魅力です。
+ MediumやNoteなどのブログサービスの代替サービスです。WriteFreelyと比べるとカラフルなUIと、カスタム性が魅力です。<br>
 
 ・Creating a theme<br>
 https://docs.joinplu.me/guide/creating-themes/<br>
 >Tips for people who want to create a theme for an instance<br>
 
-Plumeサーバーのテーマを作成したい人向けの情報です。
+Plumeサーバーのテーマを作成したい人向けの情報です。<br>
 
 ・plm CLI reference<br>
 https://docs.joinplu.me/cli/<br>
 >plm is a little CLI tool that can help you to manage your instance from the command line if you are admin of an instance.<br>
 
-plm は、インスタンスの管理者が、コマンドラインからインスタンスを管理するのに便利な、ちょっとした CLI ツールです。
+plm は、インスタンスの管理者が、コマンドラインからインスタンスを管理するのに便利な、ちょっとした CLI ツールです。<br>
 
 ・Markdown reference<br>
 https://docs.joinplu.me/guide/markdown/<br>
 >Markdown is the syntax Plume uses to format your articles and comments<br>
 
-記事やコメントにつかえるPlumeのマークダウン記法のリファレンスです。
+記事やコメントにつかえるPlumeのマークダウン記法のリファレンスです。<br>
 
 # <div id="FunkWhale"><b>6.Funkwhale</b></div>
 ・Funkwhale<br>
