@@ -1,5 +1,5 @@
 # The New and Personal Recommended Project about Fediverse
-This git repository reflects in my blog articles "The New and Personal Recommended Project about Fediverse".
+This git repository reflects my blog articles "The New and Personal Recommended Project about Fediverse".
 These blog articles is splited into fourth.<br><br>
 
 ・Desktop and Web Client Application<br>
