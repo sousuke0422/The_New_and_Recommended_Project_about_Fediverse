@@ -154,8 +154,8 @@ Gitリポジトリ（Git Repository): https://github.com/pixelcatapp/Pixelcat<br
 ・PeerTube<br>
 公式サイト（Official Site）: https://joinpeertube.org/<br>
 Gitリポジトリ（Git Repository): https://github.com/Chocobozzz/PeerTube<br>
-　>ActivityPub-federated video streaming platform using P2P directly in your web browser<br>
-　
+ >ActivityPub-federated video streaming platform using P2P directly in your web browser<br>
+
 　YoutubeやDailymotionなどの動画サイトの代替サービスです。<br><br>
 
 ・NewPipe<br>
