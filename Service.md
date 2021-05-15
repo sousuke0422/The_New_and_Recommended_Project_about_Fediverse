@@ -50,21 +50,25 @@ In addition,this article is updated once two or three weeks.<br>
 ・DashboardFE<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
+
 　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。
 
 ・GORF-FE<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/gorfdotcom/gorf-fe<br>
  >Frontend for Pleroma and Mastodon<br>
+ 
  Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。
 
 ・mastotool<br>
 Gitリポジトリ（Git Repository): https://github.com/muesli/mastotool<br>
 >A collection of command-line tools to work with your Mastodon account<br>
+
 　マストドンのアカウントに対応したCLIツール。トゥートの検索やトゥート数などの統計が見れる。
 
 ・Share freedom-extension<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-extension<br>
  >Simplest add-on for the fediverse. Share web pages right from the toolbar button.<br>
+ 
 　firefox向けのアドオンで、表示されているタブのWebページを分散SNS上に簡単にシェアできます。現在、以下の分散SNSや通信プロトコルに対応しています。<br>
     ・Gnusocial<br>
     ・Mastodon / Misskey<br>
@@ -81,23 +85,27 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
 ・FediPlan<br>
 Gitリポジトリ（Git Repository): https://framagit.org/tom79/fediplan<br>
 >A way to safely schedule messages with Mastodon and Pleroma<br>
+
 　マストドンとPleromaで事前にスケジューリングした投稿ができるツールです。
 
 ・mastodon-simplified-federation<br>
 Gitリポジトリ（Git Repository): https://github.com/rugk/mastodon-simplified-federation<br>
  >Simplifies following and interacting with remote users on other Mastodon instances. (add-on firefox)<br>
+
  他のマストドンサーバーに属するリモートユーザーをフォローする際に便利な、firefoxブラウザー向けのアドオンです。
 
 ・mastodon-twitter-poster<br>
 Gitリポジトリ（Git Repository): https://github.com/renatolond/mastodon-twitter-poster<br>
 デモサイト（Demo Site）:https://crossposter.masto.donte.com<br>
 >This is an app for crossposting between Mastodon and Twitter. The app is made so that multiple users can connect to it using the OAuth interface from both Twitter and Mastodon and choose options on how the crosspost should work.<br>
+
 　マストドンとツイッターでクロスポスト（同時投稿）ができるツールです。マルチクライアントに対応しています。
 
 ・moa<br>
 公式サイト（Official Site）: https://moa.party/<br>
 Gitリポジトリ（Git Repository): https://github.com/foozmeat/moa<br>
  >A Mastodon, Twitter, and Instagram Cross-poster<br>
+ 
 　マストドンとTwitterとインスタグラムへのクロスポストができるサイトです（現在インスタグラムへのクロスポストの機能は停止されています）。
 
 ・mastodonGlitchEdition<br>
@@ -109,6 +117,7 @@ Gitリポジトリ（Git Repository)：https://github.com/glitch-soc/mastodon/<b
 ・hometown<br>
 Gitリポジトリ（Git Repository):https://github.com/hometown-fork/hometown<br>
 >A supported fork of Mastodon that provides local posting and a wider range of content types.<br>
+
 　マストドンの軽量版フォーク。Local-onlyとFederatedの二つしか公開範囲を指定できないのが特徴的。またリストには表示されるが、HTLにフォローしている人のトゥートが表示されない機能などがある
 
 ・Corgidon<br>
@@ -119,12 +128,15 @@ Gitリポジトリ（Git Repository): https://github.com/msdos621/corgidon<br>
 
 ・Mastopeek<br>
 公式サイト（Official Site): https://mastopeek.app-dist.eu/<br>
+※マストドンサーバーAPIのフェッチエラーが起きるため、利用できません。ご注意下さい。(Caution!This site can't be used due to disable of fettching error about mastodon Server API).※<br>
 !mastodonの全サーバー情報を読み込むため表示に少しだけ時間がかかります!<br>
 　Masotodonのサーバーを探すのに便利です。サーバー・ユーザー・Statuses(おそらく投稿数）・言語・バージョンごとに調べることができます。各サーバーのリンクをクリックすれば、日・週・月間などの期間ごとのユーザーの動きの情報をまとめたチャート等の情報も合わせて表示されます。
 
 ・fedisearch<br>
 公式サイト（Official Site): https://fedisearch.com/<br>
+※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site ).※<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
+
 　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。
 
 ・Search.Social<br>
@@ -135,12 +147,30 @@ Gitリポジトリ（Git Repository): https://github.com/msdos621/corgidon<br>
 ・tootgroup.py<br>
 Gitリポジトリ（Git Repository): https://github.com/oe4dns/tootgroup.py<br>
  >emulate group accounts on Mastodon<br>
+
  マストドンでのグループアカウントのエミュレートができます。
 
 # <div id="Pleroma"><b>2.Pleroma</b></div>
+・Soapbox<br>
+公式サイト（Official Site）: https://soapbox.pub/<br>
+Gitリポジトリ（Git Repository): https://gitlab.com/soapbox-pub/soapbox<br>
+>A federated social media server with a focus on user experience.<br>
+
+　Pleromaフォークの新しい分散型SNSです。<br>
+
+・Soapbox-FE<br>
+公式サイト（Official Site）: https://soapbox.pub/<br>
+Gitリポジトリ（Git Repository): https://gitlab.com/soapbox-pub/soapbox-fe/<br>
+>A frontend for Pleroma with a focus on custom branding and ease of use.<br>
+
+Pleroma向けのフロントエンドUIです。<br>
+実験的ですが寄付機能をUI上に表示させることができます。<br>
+
+
 ・Share freedom-extension<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-extension<br>
  >Simplest add-on for the fediverse. Share web pages right from the toolbar button.<br>
+
 　firefox向けのアドオンで、表示されているタブのWebページを分散SNS上に簡単にシェアできます。現在、以下の分散SNSや通信プロトコルに対応しています。<br>
     ・Gnusocial<br>
     ・Mastodon / Misskey<br>
@@ -153,26 +183,24 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
     ・Osada / Zap / Zot6<br>
     ・XMPP
 
-・Soapbox<br>
-公式サイト（Official Site）: https://soapbox.pub/<br>
-Gitリポジトリ（Git Repository): https://gitlab.com/soapbox-pub/soapbox-fe/<br>
->Social media server with a focus on custom branding and ease-of-use.<br>
-　Pleroma向けのフロントエンドUIです。<br>
-　実験的ですが寄付機能をUI上に表示させることができます。<br>
+
 
 ・DashboardFE<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
+
 　Tumblerのユーザーダッシュボードからインスパイアされた、マストドン・PleromaのFEです。
 
 ・GORF-FE<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/gorfdotcom/gorf-fe<br>
  >Frontend for Pleroma and Mastodon<br>
+
  Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。
 
 ・FediPlan<br>
 Gitリポジトリ（Git Repository): https://framagit.org/tom79/fediplan<br>
 >A way to safely schedule messages with Mastodon and Pleroma<br>
+
 　マストドンとPleromaでスケジューリングした投稿ができるツールです。
 
 ・Pleroma-FE configuration and customization for instance administrators<br>
@@ -186,6 +214,8 @@ Pleroma-FEの設定およびカスタマイズガイドです。海外のサー�
 ・fedisearch<br>
 公式サイト（Official Site）: https://fedisearch.com/<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
+
+※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site.)<br>
 　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。
 
 ・Search.Social<br>
@@ -198,6 +228,7 @@ Pleroma-FEの設定およびカスタマイズガイドです。海外のサー�
 ・Share freedom-extension<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-extension<br>
  >Simplest add-on for the fediverse. Share web pages right from the toolbar button.<br>
+
 　firefox向けのアドオンで、表示されているタブのWebページを分散SNS上に簡単にシェアできます。現在、以下の分散SNSや通信プロトコルに対応しています。<br>
     ・Gnusocial<br>
     ・Mastodon / Misskey<br>
@@ -213,6 +244,8 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
 ・fedisearch<br>
 公式サイト(Official Site): https://fedisearch.com/<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
+
+※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site.)<br>
 　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。<br>
 
 ・Search.Social<br>
@@ -225,11 +258,13 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
 公式サイト（Official Site）: https://writefreely.org/<br>
 Gitリポジトリ（Git Repository): https://github.com/writeas/writefreely<br>
 >WriteFreely is free and open source software for building a writing space on the web — whether a publication, internal blog, or writing community in the fediverse.<br>
+
 　MediumやNoteなどのブログサービスの代替サービスです。非常にシンプルなUIが特徴的です。
 
 ・WriteFreely.host<br>
 公式サイト（Official Site）: https://writefreely.host/<br>
 >Fully-managed WriteFreely hosting for small communities<br>
+
 　小さなコミュニティ向けに月10＄か100＄（おそらくアメリカドル）で運用できるホスティングサービスです。また個人向けのホスティングとしては自分で準備したサーバーに250＄（おそらくアメリカドル）でWriteFreely.hostが代理でインストールしてくれるサービスがあります。SSL証明書のセットアップもしてくれるそうです。
 
 ・text-pic<br>
@@ -239,6 +274,7 @@ https://github.com/writeas/text-pic<br>
 ・hugo-importer<br>
 Gitリポジトリ（Git Repository): https://github.com/writefreely/hugo-importer<br>
  >CLI tool for migrating Hugo content to Write.as/WriteFreely<br>
+
  Hugoで生成したサイトをWrite.asおよびWritefreelyに移植させるCLIツールです。
 
 # <div id="Plume"><b>5.Plume</b></div>
@@ -246,21 +282,25 @@ Gitリポジトリ（Git Repository): https://github.com/writefreely/hugo-import
 公式サイト（Official Site）: https://joinplu.me/<br>
 Gitリポジトリ（Git Repository): https://github.com/Plume-org/Plume<br>
 　>Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror) <br>
+
  MediumやNoteなどのブログサービスの代替サービスです。WriteFreelyと比べるとカラフルなUIと、カスタム性が魅力です。
 
 ・Creating a theme<br>
 https://docs.joinplu.me/guide/creating-themes/<br>
 >Tips for people who want to create a theme for an instance<br>
+
 Plumeサーバーのテーマを作成したい人向けの情報です。
 
 ・plm CLI reference<br>
 https://docs.joinplu.me/cli/<br>
 >plm is a little CLI tool that can help you to manage your instance from the command line if you are admin of an instance.<br>
->plm は、インスタンスの管理者が、コマンドラインからインスタンスを管理するのに便利な、ちょっとした CLI ツールです。
+
+plm は、インスタンスの管理者が、コマンドラインからインスタンスを管理するのに便利な、ちょっとした CLI ツールです。
 
 ・Markdown reference<br>
 https://docs.joinplu.me/guide/markdown/<br>
 >Markdown is the syntax Plume uses to format your articles and comments<br>
+
 記事やコメントにつかえるPlumeのマークダウン記法のリファレンスです。
 
 # <div id="FunkWhale"><b>6.Funkwhale</b></div>
@@ -268,16 +308,19 @@ https://docs.joinplu.me/guide/markdown/<br>
 公式サイト（Official Site）: https://funkwhale.audio/<br>
 Gitリポジトリ（Git Repository): https://dev.funkwhale.audio/funkwhale/funkwhale<br>
  >A social platform to enjoy and share music<br>
+
  SoundcloudやSpotifyの代替サービスです。音楽やポッドキャストの配信が出来ます。
 
 ・Mopidy <br>
 Gitリポジトリ（Git Repository): https://dev.funkwhale.audio/funkwhale/mopidy/<br>
  >Mopidy plugin to stream music from a Funkwhale server<br>
+
  Funkwhaleサーバーから音楽をストリーミング再生させるためのMopidy向けのプラグインです。
 
 ・plugin.audio.subsonic<br>
 Gitリポジトリ（Git Repository): https://github.com/gordielachance/plugin.audio.subsonic<br>
  >Kodi plugin to stream music from Subsonic.<br>
+
  デスクトップ向け音楽プレイヤーKodi向けの、SubsonicAPIのプラグインです。
 
 # <div id="PeerTube"><b>7.PeerTube</b></div>
@@ -285,17 +328,20 @@ Gitリポジトリ（Git Repository): https://github.com/gordielachance/plugin.a
 公式サイト（Official Site）: https://joinpeertube.org/<br>
 Gitリポジトリ（Git Repository): https://github.com/Chocobozzz/PeerTube<br>
 　>ActivityPub-federated video streaming platform using P2P directly in your web browser<br>
+
 　YoutubeやDailymotionなどの動画サイトの代替サービスです。
 
 ・SepiaSearch<br>
 公式サイト（Official Site）: https://sepiasearch.org/<br>
 >A search engine of PeerTube videos and channels Developed by Framasoft<br>
+
 　各PeerTubeサーバーが公開しているムービーやチャンネルで、自分が見たいものを全サーバーを対象に検索できる検索エンジン。
 
 ・simpleweb_peertube<br>
 サーバー(Instance): https://simpleertube.metalune.xyz/<br>
 Gitリポジトリ（Git Repository): https://git.sr.ht/~metalune/simpleweb_peertube<br>
  >If you visit the main page, you can search globally (it uses Sepia Search in the backend).<br>
+
 　上記のSepiaSearchをバックエンドに利用した、非常にシンプルなPeerTube動画の検索エンジンです。
 
 ・pelican-peertube<br>
@@ -334,6 +380,7 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
 Gitリポジトリ（Git Repository）: https://github.com/groundpolis/groundpolis<br>
 開発者アカウント(Developer’s account): @ebi@misskey.io<br>
 >A forever evolving, interplanetary microblogging platform.Groundpolis is a Misskey based microblogging platform.<br>
+
 GroundpolisはMisskeyをベースにした、fediverseという宇宙の中で永遠に進化しつづけるマイクロブログプラットフォームです。
 
 ・misshaialert<br>
@@ -346,12 +393,14 @@ Gitリポジトリ（Git Repository）: https://github.com/Xeltica/misshaialert<
 Gitリポジトリ（Git Repository）: https://github.com/MiyonMiyon/InstanceTicker/<br>
 開発者アカウント(Developer’s account): https://github.com/MiyonMiyon/<br>
  >#InstanceTicker is customCSS for Mastodon and Misskey. This makes it easier to see the server name! <br>
+
  >#InstanceTicker は、Mastodon に対応するカスタムCSSで、投稿者のサーバー名（インスタンス）を表示することができる目的のものです。
 
 # <div id="Fediverse"><b>10.Fediverse</b></div>
 ・Share freedom-extension<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-extension<br>
  >Simplest add-on for the fediverse. Share web pages right from the toolbar button.<br>
+
 　firefox向けのアドオンで、表示されているタブのWebページを分散SNS上に簡単にシェアできます。現在、以下の分散SNSや通信プロトコルに対応しています。<br>
     ・Gnusocial<br>
     ・Mastodon / Misskey<br>
@@ -368,13 +417,15 @@ Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-e
 公式サイト（Official Site）: https://the-federation.info/<br>
 Gitリポジトリ（Git Repository): https://github.com/thefederationinfo/the-federation.info<br>
 >This site is for gathering statistics about nodes in the fediverse. Depending on the project, exposed statistics might have to be activated separately. To appear on this list, the node needs to be registered on this site separately, either manually or extracted from another list of nodes.<br>
+
+※現在ローメンテナンス状態のため不安定な状態です。（This site is unstable due to be maintained low.)
 !各分散SNSおよび連合ネットワークサービスの全サーバー情報を読み込むため表示に時間がかかります!<br>
-（※このサイトではいわゆる「federated universe(fediverse)」に属する分散SNSや「federation network(連合ネットワーク)」などの“federate“という単語に関係したサービスが一括でまとめられています。よって分散SNSだけでなく連合ネットワークに属するXMPPやMatrixのサービスの情報も含まれるので、TOPページに表示されているそれぞれの統計値やチャートはあくまでそういったことを踏まえた上で表示していることを念頭においてお使い下さい）<br>
+（※このサイトではいわゆる「federated universe(fediverse)」に属する分散SNSや「federation network(連合ネットワーク)」などの“federate“という単語に関係したサービスが一括でまとめられています。よって分散SNSだけでなく別のプロコトルに基づいて連合ネットワークを形成するXMPPやMatrixのサービスの情報も含まれるので、TOPページに表示されているそれぞれの統計値やチャートはそういったことを踏まえた上で表示されていることを念頭においてお使い下さい）<br>
 　TOPページのProjectsの項目では現在サーバーがある分散SNSの中で、サーバーが多い順に各分散SNSがリスト形式で紹介されています。上から順に下がっていくほどに、新興の分散SNSおよび連合ネットワークサービスが掲載されており、新興の分散SNSや連合ネットワークサービスをチェックするのに便利です。またProtoclではactivitypubを中心に様々なプロトコルがこちらもリスト形式で紹介されています。<br>
 　各分散SNSやプロトコルのリンクをクリックすると、それぞれの統計値がTOPページと同様のスタイルで表示されます。Total Users（全アカウント数）の順にサーバーが紹介されており、各サーバーをクリックするとさらに詳しい情報や統計を見ることができます。<br>
 
 ・fediverse.network<br>
-現在事実上の閉鎖となっています（Official Site.But currently closed): https://fediverse.network/<br>
+※現在事実上の閉鎖となっています（Official Site.Currently closed): https://fediverse.network/<br>
 !各分散SNSごとの全サーバー情報を読み込むため表示に時間がかかります!<br>
 　The Federationと違い、分散SNSに絞ったサーバー情報が掲載されているサイトなのですが、よくサイトが落ちる傾向にあります。アクセスできなくなったら「またか」と考えて他のツールを使うのが吉です。よく落ちるのでこの記事を書いている間も落ちており、結局fediverse.networkについて調べることができずあまりこの項目は書けませんでした。便利なんですけどね、うん。ちなみにマイナーな分散SNSおよびそのサーバーについては全てotherの中に含まれてしまうので注意が必要です。<br>
 
@@ -382,6 +433,7 @@ Gitリポジトリ（Git Repository): https://github.com/thefederationinfo/the-f
 公式サイト（Official Site）: https://fediverse.party/<br>
 Gitリポジトリ（Git Repository): https://git.feneas.org/feneas/fediverse<br>
 >A quick look into Fediverse networks<br>
+
 　Federated Networks Associationという非営利団体が運営しているサイトです。先月11月20日に3周年を迎えられました。TOPページにはいわゆる有名どころの分散SNSに関するリンクが貼られていて、リンクの先にはそれぞれの分散SNSの概要が書かれています。特筆すべきはMENUタブの「ALLAPPS」で、おそらく最も多くの分散SNSがリストアップされています。開発中・アルファ版・ベータ版・安定版のいずれかに関わらず、大量の分散SNSが掲載されています。The Federationやfediverse.networkに掲載されていない分散SNSを知るのに便利です。カテゴリ・採用プロトコル・コードの言語別に調べることができます。<br>
 
 ・fediverse.space<br>
@@ -392,15 +444,19 @@ https://lemmy.cardina1.red/post/53<br>
 ・Trunk<br>
 公式サイト（Official Site）: https://communitywiki.org/trunk<br>
 >Trunk allows you to mass-follow a bunch of people in order to get started with Mastodon or any other platform on the Fediverse.<br>
+
 　mastodonやその他分散SNSを始めるひとのために、各カテゴリ（例えばネコ・Linux・食べ物・ActivityPub・Emacs・日本など）ごとに自分のアカウントを掲載しても良い、とTrunkに申請したアカウントが載っている大規模なフォローリスト<br>
 
 ・FediverseExplorer<br>
 公式サイト（Official Site）: https://fediverse.0qz.fun/<br>
+※このサイトは2021年4月17日より更新されていません。(This site isn't updated from April 17 2021)※<br>
 　fediverse全体で話題になっているハッシュタグをランキング形式で見ることができるサイト<br>
 
 ・fedisearch<br>
 公式サイト（Official Site）: https://fedisearch.com/<br>
 >Search fediverse (mastodon, misskey, pleroma) swiftly<br>
+
+※タイムアウトが発生します。ご注意下さい。(Caution!Timeout error is occured in this site.)
 　マストドン,Pleroma,misskeyのパブリックポストを検索できるサイト。少し前まで普通に使えてたのですが、開発者のアカウントが今年の6月から更新されていない事もあってか、24時間以内・1週間以内の検索ができません。1ヶ月以内の検索もなぜか29日前のトゥートしか検出されません。
 
 ・Search.Social<br>
@@ -412,11 +468,13 @@ https://lemmy.cardina1.red/post/53<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/spla/feditrends<br>
 実装アカウント(Implemented Account): https://mastodont.cat/@feditrends
  >Post to your Mastodon server top ten most used fediverse's trends of the current week.<br>
+
 　1週間の間にfediverseで使われたハッシュタグのトップ10を自分のマストドンサーバーに流すことができます。マストドンアカウントとして、上記のように実装もされています。
 
 ・FediDB<br>
 公式サイト（Official Site): https://fedidb.org/<br>
  >Developer Tools for ActivityPub. We currently support popular fediverse applications like Mastodon, Pixelfed and Peertube.<br>
+
  マストドン・Pixelfed・PeerTubeなどの分散SNSに対応した、開発ツール等を集めたサイトです。Pixelfedの開発者dansup氏が開発しました。Resourcesにその一覧が載っています。Networkには分散SNSごとのユーザー数などの統計がランキング形式で見れます。またSoftwareでは各分散SNSごとの”全体として”のユーザー数などの統計が見れます。
 <br>
 
@@ -424,6 +482,7 @@ Gitリポジトリ（Git Repository): https://gitlab.com/spla/feditrends<br>
 ・Cloud68<br>
 https://cloud68.co/<br>
 >Reliable open source digital infrastructure! Managing Nextcloud & other # WorkFromHome platforms for you(so that you don’t have to).<br>
+
 　オープンソースのソフトウェアに特化したホスティングサービス。Bitwarden,Gitlab,Wordpress,Nextcloudなどその他色々あります。またWriteFreelyとFunkWhaleをホスティングするプランもあります。<br>
 WriteFreely hosting plan: https://cloud68.co/instances/writefreely<br>
 FunkWhale hosting plan: https://cloud68.co/instances/funkwhale
@@ -435,16 +494,19 @@ FunkWhale hosting plan: https://cloud68.co/instances/funkwhale
 ・Spacebear<br>
 公式サイト（Official Site）: https://app.spacebear.ee/<br>
 >Fully managed federated software hosting. Prices starting as low as $5 USD per month<br>
+
 　毎月少なくとも5ドル(US)で、マストドンだけでなくPeerTubeやPixelFedをホスティングできるサービス。Hometownというマストドンのフォークもホスティングできる。
 
 ・WriteFreely.host<br>
 公式サイト（Official Site）: https://writefreely.host/<br>
 >Fully-managed WriteFreely hosting for small communities<br>
+
 　小さなコミュニティ向けに月10＄か100＄（おそらくアメリカドル）で運用できるホスティングサービスです。また個人向けのホスティングとしては自分で準備したサーバーに250＄（おそらくアメリカドル）でWriteFreely.hostが代理でインストールしてくれるサービスがあります。SSL証明書のセットアップもしてくれるそうです。
 
 ・Stuxhost<br>
 https://stuxhost.com/<br>
 >Domains, Shared Webhosting, VPS Hosting & SSL Certificates<br>
+
 　mstdn.socialの管理人、stuxさんが運営するサービスです。特定の分散SNSをホスティングするサービスではありませんが、マストドンをはじめとした分散SNSに理解のあるstuxさんが運営されているのは心強いですよね。
 
 
@@ -468,12 +530,14 @@ Gitリポジトリ（Git Repository): https://github.com/reconnexion/activitypub
 ・Wordpress-Ostatus<br>
 Gitリポジトリ（Git Repository): https://github.com/pfefferle/wordpress-ostatus<br>
 >An OStatus plugin for WordPress<br>
+
 　WordPress向けOstatusプロトコルのためのプラグインです。
 
 ・Wordpress-AcitivityPub<br>
 公式サイト（Official Site）: https://wordpress.org/plugins/activitypub/<br>
 Gitリポジトリ（Git Repository): https://plugins.trac.wordpress.org/browser/activitypub/<br>
  >The plugin implements the ActivityPub protocol for your blog. Your readers will be able to follow your blogposts on Mastodon and other federated platforms that support ActivityPub.<br>
+
 　WordPress向けActivityPubプロトコルのプラグインです。
 
 ・ForgeFed<br>
@@ -492,6 +556,7 @@ Gitリポジトリ（Git Repository): https://plugins.trac.wordpress.org/browser
 公式サイト（Official Site）: https://ryanatkn.github.io/corpus-activity-streams/<br>
 Gitリポジトリ（Git Repository): https://github.com/ryanatkn/corpus-activity-streams<br>
  >Activity Streams 2.0 vocabulary data and alternative docs 
+
  Activity Streams2.0の語彙データとw3cのそれのドキュメントに代わる、分かりやすい文書です。
 
 # <div id="Others"><b>13.その他(Others)</b></div>
@@ -499,23 +564,27 @@ Gitリポジトリ（Git Repository): https://github.com/ryanatkn/corpus-activit
 公式サイト（Official Site）: https://joinmobilizon.org/<br>
 Gitリポジトリ（Git Repository): https://github.com/framasoft/mobilizon<br>
 >Gather, organize and mobilize yourselves with a convivial, ethical, and emancipating tool.<br>
+
 　コミュニティやイベントの運営をするための分散SNSです。
 
 ・castling.club<br>
 公式サーバー（Official Instance): https://castling.club/<br>
 Gitリポジトリ（Git Repository): https://github.com/stephank/castling.club<br>
+
 >Challenge someone to a game of chess using toots!<br>
 　チェスをすることができる分散SNSプロジェクトです。
 
 ・micromic<br>
 Gitリポジトリ（Git Repository): https://github.com/chimo/micromic<br>
 >A StatusNet Theme<br>
+
 　StatusNetのテーマの一つ。リポジトリ自体は既にアーカイブ化されている。
 
 ・microblog.pub<br>
 公式サイト（Official Site）: https://docs.microblog.pub/<br>
 Gitリポジトリ（Git Repository): https://github.com/tsileo/microblog.pub<br>
  >A self-hosted, single-user, ActivityPub powered microblog.
+
  ActivityPub対応のお一人様向けのマイクロブログ型分散SNSです。
 
 ・pump.io<br>
@@ -532,4 +601,3 @@ Liberapay: https://liberapay.com/4ioskd<br>
 Patreon.com: https://www.patreon.com/DignifiedSilence<br>
 干し芋リスト https://www.amazon.co.jp/hz/wishlist/ls/3OME4FO5EZ7H3?ref_=wl_share<br>
 ディグニ's キッチン https://www.amazon.co.jp/hz/wishlist/ls/3AA59RBERRECV?ref_=wl_share
-19K
