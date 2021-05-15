@@ -14,8 +14,8 @@
 In addition,this article is updated once two or three weeks.<br>
 <hr>
 <b>目次（Table of Contents）</b><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/README.md/#1mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
-<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/README.md/#2pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#1mastodon" rel="noopener noreferrer">1.Mastodon</a><br>
+<a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#2pleroma" rel="noopener noreferrer">2.Pleroma</a><br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#3misskey" rel="noopener noreferrer">3.Misskey</a><br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#4pixelFed" rel="noopener noreferrer">4.PixelFed</a><br>　インスタグラムやFlickerなどの代替サービス（An alternative service for Instagram and Flicker.)<br>
 <a href="https://github.com/4ioskd/The_New_and_Personal_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md/#5peerTube" rel="noopener noreferrer">5.PeerTube</a><br>　YoutubeやDailymotionなどの代替サービス（An alternative service for Youtube and Dailymotion.)<br>
