@@ -40,7 +40,7 @@ In addition,this article is updated once two or three weeks.<br>
 
 ---
 
- <div id="Mastodon"><b>1.Mastodon</b></div>
+# <div id="Mastodon"><b>1.Mastodon</b></div>
 ・DashboardFE<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
