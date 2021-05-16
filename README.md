@@ -1,4 +1,4 @@
-# The New and Personal Recommended Project about Fediverse
+# The New and Recommended Project about Fediverse
 This git repository reflects my blog(Plume) article series "The New and Personal Recommended Project about Fediverse".<br>
 This article series are splited into fourth.<br><br>
 
