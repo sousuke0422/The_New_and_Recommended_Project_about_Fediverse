@@ -1,9 +1,8 @@
 # The New and Recommended Project about Fediverse
 
-<hr>
-<b>Your issue and Pull request are welcome!!</b><br>
+<div align="center"><b>Your issue and Pull request are welcome!!</b><br>
 But this is my side project and be under low maintenance.<br>
-Currently,the reflection for my blog article series is done once in 2-3weeks.<br>
+Currently,the reflection for my blog article series is done once in 2-3weeks.<br></div>
 <hr>
 
 This git repository reflects my blog(Plume) article series "The New and Recommended Project about Fediverse".<br>
