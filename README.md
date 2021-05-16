@@ -17,7 +17,7 @@ This article series are written in English and Japanese and splited into fourth.
  This Git is <a href="https://github.com/4ioskd/The_New_and_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md" rel="noopener noreferrer">here</a>.<br><br>
 ・<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project" rel="noopener noreferrer">Under Development</a><br>
  This article mainly include all the above about fediverse under development.<br>
- This Git is <a href="https://github.com/4ioskd/The_New_and_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md" rel="noopener noreferrer">here</a>.<br>
+ This Git is <a href="https://github.com/4ioskd/The_New_and_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md" rel="noopener noreferrer">here</a>.<br><br>
  
 # Template about project
 Each project are written by a template below.<br>
