@@ -1,4 +1,4 @@
-# The New and Personal Recommended Project about Fediverse<br>
+# The New and Recommended Project about Fediverse<br>
 # <center>-Service-</center>
 
 ※このgitは私の以下のブログ（Plume）記事に反映されます。<br>
