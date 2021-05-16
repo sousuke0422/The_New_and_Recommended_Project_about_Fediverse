@@ -1,5 +1,5 @@
 # The New and Recommended Project about Fediverse<br>
-# <center>-Under Development-</center>
+# -Under Development-
 
 ※このgitは私の以下のブログ（Plume）記事に反映されます。<br>
 ※This git reflects my blog(Plume) article below.<br><br>
