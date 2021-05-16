@@ -21,11 +21,11 @@ Gitリポジトリ（Git Repository): http(s) address<br>
 ＞A citiation from Official Site,Git Repository or Demo Site's description.<br>
  Japanese description is here.<b>(Dignified Silence writes this line.)</b><br><br>
 
-(※)if there isn't Official Site or Demo Site,this line can be cut.<br><br>
-
+(※)If there isn't Official Site or Demo Site,you can cut this line.<br><br>
+<hr>
 <b>Your issue and Pull request are welcome!!</b><br>
 But this is my side project and be under low maintenance.<br>
-Currently,the reflection for my blog article series is done once in 2-3weeks.<br><br>
+Currently,the reflection for my blog article series is done once in 2-3weeks.<br>
 
 <hr>
 
