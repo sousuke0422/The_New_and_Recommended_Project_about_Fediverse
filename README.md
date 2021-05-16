@@ -19,11 +19,13 @@ Currently,the reflection for my blog article series is done once in 2-3weeks.<br
 Each project are described by a template below.<br>
 
 ・Project name<br>
-公式サイト（Official Site）: http(s) address <b>(if there isn't Official site,this line can be cut.)</b><br>
+公式サイト（Official Site）: http(s) address (※）<br>
 Gitリポジトリ（Git Repository): http(s) address<br>
-デモサイト（Demo Site）:http(s) address <b>(if there isn't Demo site,this line can be cut)</b><br>
+デモサイト（Demo Site）:http(s) address (※）<br>
 ＞A citiation from Official Site,Git Repository's description or Demo site.<br>
- Japanese description is here.<b>(Dignified Silence writes this line.)</b><br>
+ Japanese description is here.<b>(Dignified Silence writes this line.)</b><br><br>
+
+(※)if there isn't Official Site or Demo Site,this line can be cut.<br><br>
 
 <hr>
 
