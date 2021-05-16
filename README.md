@@ -1,4 +1,11 @@
 # The New and Recommended Project about Fediverse
+
+<hr>
+<b>Your issue and Pull request are welcome!!</b><br>
+But this is my side project and be under low maintenance.<br>
+Currently,the reflection for my blog article series is done once in 2-3weeks.<br>
+<hr>
+
 This git repository reflects my blog(Plume) article series "The New and Recommended Project about Fediverse".<br>
 This article series are written in English and Japanese and splited into fourth.<br><br>
 
@@ -24,10 +31,7 @@ Gitリポジトリ（Git Repository): http(s) address<br>
  Japanese description is here.<b>(Dignified Silence writes this line.)</b><br>
 
 (※)If there isn't Official Site or Demo Site,you can cut this line.<br>
-<hr>
-<b>Your issue and Pull request are welcome!!</b><br>
-But this is my side project and be under low maintenance.<br>
-Currently,the reflection for my blog article series is done once in 2-3weeks.<br>
+
 
 <hr>
 
