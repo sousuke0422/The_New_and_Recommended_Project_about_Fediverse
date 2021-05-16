@@ -11,10 +11,6 @@ This article series are written in English and Japanese and splited into fourth.
 ・<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project" rel="noopener noreferrer">Under Development</a><br>
  This article mainly include all the above about fediverse under development.<br><br>
 
-<b>Your issue and Pull request are welcome!!</b><br>
-But this is my side project and be under low maintenance.<br>
-Currently,the reflection for my blog article series is done once in 2-3weeks.<br><br>
-
 # Template
 Each project are described by a template below.<br>
 
@@ -26,6 +22,10 @@ Gitリポジトリ（Git Repository): http(s) address<br>
  Japanese description is here.<b>(Dignified Silence writes this line.)</b><br><br>
 
 (※)if there isn't Official Site or Demo Site,this line can be cut.<br><br>
+
+<b>Your issue and Pull request are welcome!!</b><br>
+But this is my side project and be under low maintenance.<br>
+Currently,the reflection for my blog article series is done once in 2-3weeks.<br><br>
 
 <hr>
 
