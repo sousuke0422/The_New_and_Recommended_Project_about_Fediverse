@@ -5,7 +5,7 @@
 ※This git reflects my blog(Plume) article below.<br><br>
 
 <a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-service" rel="noopener noreferrer">【随時更新】私的：fediverseおよび分散SNSに関するプロジェクト集-サービス編-<br>
-[EN Title]The New and Personal Recommended Project about Fediverse -Service-</a><br>
+[EN Title]The New and Recommended Project about Fediverse -Service-</a><br>
 <hr>
 
 　日々fediverseや分散SNSの情報を収集していると、それらにまつわるアプリやサービスをぽつぽつと見つけることがあります。その度にできるだけトゥートでご紹介してきましたが、自分の情報の整理もかねてこの記事にこれまで見つけてきたサービスやアプリをまとめていこうと考えています。みなさんがまだ目にしたことのないような、または個人的にオススメしたいプロジェクトを中心にご紹介していきます。<br>
