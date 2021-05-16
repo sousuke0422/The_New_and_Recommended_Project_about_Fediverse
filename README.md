@@ -11,8 +11,8 @@ This article series are written in English and Japanese and splited into fourth.
 ・<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project" rel="noopener noreferrer">Under Development</a><br>
  This article mainly include all the above about fediverse under development.<br><br>
 
-# Template
-Each project are described by a template below.<br>
+# Template about project
+Each project are written by a template below.<br>
 
 ・Project name<br>
 公式サイト（Official Site）: http(s) address (※）<br>
