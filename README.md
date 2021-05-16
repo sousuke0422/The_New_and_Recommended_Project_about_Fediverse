@@ -1,9 +1,9 @@
 # The New and Recommended Project about Fediverse
-
-<div align="center"><b>Your issue and Pull request are welcome!!</b><br>
+<br>
+<div align="center"><b><font size="7">Your issue and Pull request are welcome!!</font></b><br>
 But this is my side project and be under low maintenance.<br>
-Currently,the reflection for my blog article series is done once in 2-3weeks.<br></div>
-<hr>
+Currently,the reflection for my blog article series is done once in 2-3weeks.<br></div><br><br>
+
 
 This git repository reflects my blog(Plume) article series "The New and Recommended Project about Fediverse".<br>
 This article series are written in English and Japanese and splited into fourth.<br><br>
