@@ -7,10 +7,12 @@ This article series are written in English and Japanese and splited into fourth.
 ・<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns" rel="noopener noreferrer">Mobile App</a>(Currently,there is no git.)<br>
  This article mainly include mobile(smartphone) app for a fediverse server side application.<br><br>
 ・<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-service" rel="noopener noreferrer">Service</a><br>
- This article mainly include useful service about fediverse.<br><br>
+ This article mainly include useful service about fediverse.<br>
+ This Git is <a href="https://github.com/4ioskd/The_New_and_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md" rel="noopener noreferrer">here</a>.<br><br>
 ・<a href="https://plume.korako.me/~/FediverseAndInternet2/new-update-the-new-and-personal-recommendation-project-about-fediverse-and-distributed-sns-under-developing-project" rel="noopener noreferrer">Under Development</a><br>
- This article mainly include all the above about fediverse under development.<br><br>
-
+ This article mainly include all the above about fediverse under development.<br>
+ This Git is <a href="https://github.com/4ioskd/The_New_and_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md" rel="noopener noreferrer">here</a>.<br>
+ 
 # Template about project
 Each project are written by a template below.<br>
 
@@ -19,9 +21,9 @@ Each project are written by a template below.<br>
 Gitリポジトリ（Git Repository): http(s) address<br>
 デモサイト（Demo Site）:http(s) address (※）<br>
 ＞A citiation from Official Site,Git Repository or Demo Site's description.<br>
- Japanese description is here.<b>(Dignified Silence writes this line.)</b><br><br>
+ Japanese description is here.<b>(Dignified Silence writes this line.)</b><br>
 
-(※)If there isn't Official Site or Demo Site,you can cut this line.<br><br>
+(※)If there isn't Official Site or Demo Site,you can cut this line.<br>
 <hr>
 <b>Your issue and Pull request are welcome!!</b><br>
 But this is my side project and be under low maintenance.<br>
