@@ -21,7 +21,7 @@ This article series are written in English and Japanese and splited into fourth.
  This article's git is <a href="https://github.com/4ioskd/The_New_and_Recommended_Project_about_Fediverse/blob/main/UnderDevelopment.md" rel="noopener noreferrer">here</a>.<br><br>
  
 # Template about project
-Each project are written basically by a template below.<br><br>
+Each project are written basically with using a template below.<br><br>
 
 ・Project name<br>
 公式サイト（Official Site）: http(s) address (※）<br>
