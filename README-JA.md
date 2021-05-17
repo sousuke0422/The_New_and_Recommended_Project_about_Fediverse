@@ -3,7 +3,7 @@
 <div align="center"><b><font size="20">issueやプルリク歓迎です!</font></b><br>
 このプロジェクトはサイドプロジェクトのため現在のところ、記事集への反映は2,3週間に一度行っています。<br></div><br><br>
 
-私のブログ(Plume）の記事集「The New and Recommended Project about Fediverse（【随時更新】fediverseおよび分散SNSに関するプロジェクト集）」はfediverseに関するプロジェクトを集めたリストで、日本人と英語を話す海外の人向けに作成しています。<br>
+ブログ(Plume）の記事集「The New and Recommended Project about Fediverse（【随時更新】fediverseおよび分散SNSに関するプロジェクト集）」はfediverseに関するプロジェクトを集めたリストで、日本人と英語を話す海外の人向けに作成しています。<br>
 
 この記事集は日本語と英語でかかれており、以下の4つに分かれます。<br><br>
 
@@ -33,29 +33,29 @@
 
  
 
-# Template about project
+# 各プロジェクトのテンプレート
 
-Each project are written basically with using a template below.<br><br>
+それぞれのプロジェクトを記事に書く際は、以下のテンプレートを使います。<br><br>
 
 
 
 ・Project name<br>
 
-公式サイト（Official Site）: http(s) address (※）<br>
+公式サイト（Official Site）: http(s)アドレス (※）<br>
 
-Gitリポジトリ（Git Repository): http(s) address<br>
+Gitリポジトリ（Git Repository): http(s)アドレス<br>
 
-デモサイト（Demo Site）:http(s) address (※）<br>
+デモサイト（Demo Site）:http(s)アドレス (※）<br>
 
-＞A citiation from Official Site,Git Repository or Demo Site's description.<br>
+＞公式サイト、Gitリポジトリ、デモサイトにあるプロジェクト説明からの引用<br>
 
- Japanese description is here.<b>(Dignified Silence writes this line.)</b><br><br>
+ 日本語でのプロジェクト説明<b>（書いて頂けると嬉しいですが、書けない場合はディグニが書きます）</b><br><br>
 
 
 
-(※)If there isn't Official Site or Demo Site,you can cut this line.<br>
+(※)公式サイトおよびデモサイトの両方・どちらかが無い場合はカットしてもらっても大丈夫です。<br>
 </hr>
-License:<br>
+ライセンス:<br>
 
 All git,articles and activity under CC BY-SA 4.0
 
