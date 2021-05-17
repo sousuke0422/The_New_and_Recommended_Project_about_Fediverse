@@ -8,13 +8,13 @@
 [EN Title]The New and Recommended Project about Fediverse -Service-</a><br>
 <hr>
 
-　日々fediverseや分散SNSの情報を収集していると、それらにまつわるアプリやサービスをぽつぽつと見つけることがあります。その度にできるだけトゥートでご紹介してきましたが、自分の情報の整理もかねてこの記事にこれまで見つけてきたサービスやアプリをまとめていこうと考えています。みなさんがまだ目にしたことのないような、または個人的にオススメしたいプロジェクトを中心にご紹介していきます。<br>
+　日々fediverseや分散SNSの情報を収集していると、それらにまつわるアプリやサービスをぽつぽつと見つけることがあります。その度にできるだけトゥートでご紹介してきましたが、自分の情報の整理もかねてこの記事にこれまで見つけてきたサービスやアプリをまとめていこうと考えています。みなさんがまだ目にしたことのないような、またはオススメしたいプロジェクトを中心にご紹介していきます。<br>
 
 　なおこの記事は新たなfediverseおよび分散SNSのアプリやサービスを見つけ次第、随時更新する予定です。<br><br>
 
 
 
-　When I gather the fediverse and decentralisedSNS’s news and information almost everyday,I find some interesting app and service projects.I often tooted about these projects from my mastodon account as daily activity.But if you missed these,I’m sad you miss the opportunity to know these. So in this article,I want to reintroduce particulary the new and personally recommended projects.<br>
+　When I gather the fediverse and decentralisedSNS’s news and information almost everyday,I find some interesting app and service projects.I often tooted about these projects from my mastodon account as daily activity.But if you missed these,I’m sad you miss the opportunity to know these. So in this article,I want to reintroduce particulary the new and recommended projects.<br>
 
 In addition,this article is updated once two or three weeks.<br>
 
