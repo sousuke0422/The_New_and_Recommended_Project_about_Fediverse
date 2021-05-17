@@ -4,7 +4,7 @@
 This is my side project.<br>
 Currently,the reflection for my blog article series is done once in 2-3weeks.<br></div><br><br>
 
-[Readme for Japanese]日本語でのReadmeは<a href="https://github.com/4ioskd/The_New_and_Recommended_Project_about_Fediverse/blob/main/README-JA" rel="noopener noreferrer">こちら</a><br>
+[Readme for Japanese]<br>日本語でのReadmeは<a href="https://github.com/4ioskd/The_New_and_Recommended_Project_about_Fediverse/blob/main/README-JA" rel="noopener noreferrer">こちら</a><br><br>
 The blog(Plume) article series "The New and Recommended Project about Fediverse" is a curated list about fediverse projects for English speaking peopple and Japanese. It is based on this repository.<br>
 This article series are written in English and Japanese and splited into fourth.<br><br>
 
