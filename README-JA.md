@@ -1,7 +1,7 @@
 # The New and Recommended Project about Fediverse
 <br>
 <div align="center"><b><font size="20">issueやプルリク歓迎です!</font></b><br>
-このプロジェクトはサイドプロジェクトのため現在のところ、<br>記事集への反映は2,3週間に一度行っています。<br></div><br><br>
+このプロジェクトはサイドプロジェクトのため、<br>現在のところ、記事集への反映は2,3週間に一度行っています。<br></div><br><br>
 
 ブログ(Plume）の記事集「The New and Recommended Project about Fediverse（【随時更新】fediverseおよび分散SNSに関するプロジェクト集）」はfediverseに関するプロジェクトを集めたリストで、日本人と英語を話す海外の人向けに作成しています。<br>
 
