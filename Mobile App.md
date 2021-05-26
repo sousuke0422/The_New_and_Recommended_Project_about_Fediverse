@@ -180,8 +180,7 @@ Gitリポジトリ（Git Repository): https://github.com/nvllsvm/Audinaut<br>
 ・Ultrasonic<br>
 公式サイト（Official Site）:  https://ultrasonic.github.io/<br>
 Gitリポジトリ（Git Repository): https://github.com/ultrasonic/ultrasonic<br>
-　>Free and open-source music streaming Android client for Subsonic API compatible servers 
- Subsonic<br>
+ >Free and open-source music streaming Android client for Subsonic API compatible servers Subsonic<br>
 
  Funkwhaleサーバーと繋がるためのSubsonicAPI対応のAndroidクライアントアプリの一つです。<br><br>
 
@@ -196,7 +195,7 @@ Gitリポジトリ（Git Repository): https://github.com/apognu/otter/<br>
 ・PeerTube<br>
 公式サイト（Official Site）: https://joinpeertube.org/<br>
 Gitリポジトリ（Git Repository): https://github.com/Chocobozzz/PeerTube<br>
-　>ActivityPub-federated video streaming platform using P2P directly in your web browser<br>
+ >ActivityPub-federated video streaming platform using P2P directly in your web browser<br>
 
 　YoutubeやDailymotionなどの動画サイトの代替サービスです。<br><br>
 
@@ -209,8 +208,7 @@ Gitリポジトリ（Git Repository): https://github.com/sschueller/peertube-and
 ・Fedilab<br>
 公式サイト（Official Site）: https://fedilab.app/wiki/home/<br>
 Gitリポジトリ(Git Repository)： https://framagit.org/tom79/fedilab<br>
- >Fedilab is a multifunctional Android client to access the distributed Fediverse, consisting of microblogging, photo sharing and video hosting
-
+ >Fedilab is a multifunctional Android client to access the distributed Fediverse, consisting of microblogging, photo sharing and video hosting<br><br>
 
 ・TubeLab<br>
 Gitリポジトリ（Git Repository): https://framagit.org/tom79/fedilab-tube#TubeLab<br>
