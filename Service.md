@@ -41,12 +41,6 @@ In addition,this article is updated once two or three weeks.<br>
 ---
 
 # <div id="Mastodon"><b>1.Mastodon</b></div>
-・Florence-Social<br>
-Gitリポジトリ（Git Repository): https://github.com/florence-social/mastodon-fork<br>
- >This is not the official version of Mastodon; this is a separate version (i.e. a fork) maintained by Florence.<br>
-
- Florence(Fediverse Loves Open Responsible Ethical Networks for Communicating with Everyone)という団体が運用していたマストドンのフォークでした。現在はアーカイブ化されています。<br><br>
-
 ・DashboardFE<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
@@ -100,6 +94,12 @@ Gitリポジトリ（Git Repository): https://github.com/renatolond/mastodon-twi
 >This is an app for crossposting between Mastodon and Twitter. The app is made so that multiple users can connect to it using the OAuth interface from both Twitter and Mastodon and choose options on how the crosspost should work.<br>
 
 　マストドンとツイッターでクロスポスト（同時投稿）ができるツールです。マルチクライアントに対応しています。<br><br>
+
+・Florence-Social<br>
+Gitリポジトリ（Git Repository): https://github.com/florence-social/mastodon-fork<br>
+ >This is not the official version of Mastodon; this is a separate version (i.e. a fork) maintained by Florence.<br>
+ 
+ Florence(Fediverse Loves Open Responsible Ethical Networks for Communicating with Everyone)という団体が運用していたマストドンのフォークでした。現在はアーカイブ化されています。<br><br>
 
 ・moa<br>
 公式サイト（Official Site）: https://moa.party/<br>
