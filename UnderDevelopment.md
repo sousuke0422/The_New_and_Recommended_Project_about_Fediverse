@@ -46,12 +46,6 @@ Android: https://play.google.com/store/apps/details?id=com.avalanche.avalanche<b
  
  現在開発中のマストドン向けモバイルアプリです。日本語化が完了されたそうです。<br><br>
 
-・TwidereX-Android<br>
-Gitリポジトリ（Git Repository): https://github.com/TwidereProject/TwidereX-Android<br>
- >Next generation of Twidere for Android 5.0+. Still in early stage.<br>
- 
- Android5.0以上に対応した、Twidereの次世代プロジェクトです。<br><br>
-
 ・TwidereX-iOS<br>
 Gitリポジトリ（Git Repository): https://github.com/TwidereProject/TwidereX-iOS<br>
  >Next generation of Twidere for iOS. <br>
@@ -170,19 +164,13 @@ Gitリポジトリ（Git Repository): https://github.com/TeamNewPipe/NewPipe/<br
 Gitリポジトリ（Git Repository): https://framagit.org/bnjbvr/peerchat<br>
  >A function of commenting PeerTube livestreaming<br>
  
- PeerTubeのライブストリーミングのチャット機能(youtubeでいうとコメント機能かな)が開発されてます。リリースには至ってないですが、これは期待大。<br><br>
+ PeerTubeのライブストリーミングのチャット機能(youtubeでいうとコメント機能)が開発されてます。リリースには至ってないですが、これは期待大。<br><br>
 
 # <div id="Lemmy"><b>6.Lemmy</b></div>
 ・Lemmy<br>
 公式サイト（Official Site）: https://join.lemmy.ml/<br>
 Gitリポジトリ（Git Repository): https://github.com/LemmyNet<br>
 RedditやHackerNewsなどの代替サービスです。日本で言えば、スラドがイメージしやすいでしょうか。<br><br>
-
-・Remmel<br>
-Gitリポジトリ（Git Repository): https://github.com/uuttff8/Lemmy-iOS<br>
- >A mobile client for lemmy in iOS(test flight).<br>
- 
- LemmyのiOS向けのモバイルアプリです。現在test flightに参加することができます。<br><br>
 
 # <div id="JapaneseDeveloperService"><b>7.日本人が開発しているサービス（Japanese Developer's Service）</b></div>
 ・Technopolis<br>
@@ -226,6 +214,12 @@ https://api.pleroma.social/<br>
  PleromaAPIの仕様書です。この仕様書はまだまだ不完全な所が多いそうで、issueや質問・提案等を受け付けているそうです。<br><br>
 
 # <div id="Others"><b>10.その他(Others)</b></div>
+・Mastodon Moderation alerts<br>
+Gitリポジトリ（Git Repository): https://gitlab.com/stemid/mastodon-moderator-alerts<br>
+ >This alerts me when new accounts are awaiting approval, or new reports are created.<br>
+
+ 新しいアカウントの承認待ちや通報が発生した時にアラートをしてくれるサービスです。<br><br>
+
 ・Fedeproxy<br>
 公式サイト（Official Site）: https://fedeproxy.eu/<br>
 Gitリポジトリ（Git Repository): https://lab.fedeproxy.eu/fedeproxy<br>
