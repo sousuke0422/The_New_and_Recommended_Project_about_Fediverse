@@ -61,6 +61,14 @@ Gitリポジトリ(Git Repository): https://github.com/TwidereProject/Twidere-An
  In addition, you can enjoy Friendica and GNU-social through using this app.<br>
  Android4.1以上に対応したTwitter、マストドン、Fanfou(中国のSNS)の機能豊富なクライアントアプリです。なおFriendicaやGNU-Socialにも対応しています。<br><br>
 
+・TwidereX-Android<br>
+Gitリポジトリ（Git Repository): https://github.com/TwidereProject/TwidereX-Android<br>
+ >Next generation of Twidere for Android 5.0+. Still in early stage.<br>
+ 
+ Android5.0以上に対応した、Twidereの次世代プロジェクトです。<br><br>
+
+
+
 ・Indigenous<br>
 公式サイト(Official Site): https://indigenous.realize.be/<br>
 Gitリポジトリ(Git Repository)<br>
@@ -88,6 +96,12 @@ Gitリポジトリ(Git Repository)： https://framagit.org/tom79/fedilab<br>
 
 
 # <div id="Pleroma"><b>2.Pleroma</b></div>
+・Husky<br>
+Gitリポジトリ(Git Repository): https://git.mentality.rip/FWGS/Husky<br>
+>Husky is a fork of Tusky that aimed to support Pleroma's Mastodon API extensions and some ideas that I may come up with.<br>
+
+ Android向けのPleromaクライアントアプリです。マストドンのAndroidアプリ、Tuskyのフォークになります。<br><br>
+
 ・Indigenous<br>
 公式サイト(Official Site): https://indigenous.realize.be/<br>
 Gitリポジトリ(Git Repository)<br>
@@ -231,6 +245,12 @@ Gitリポジトリ（Git Repository): https://github.com/krawieck/lemmur<br>
  Especially for Android,Windows,Linux.<br>
 
  LemmyのWindows,Linux、特にAndroidのクライアントアプリです。<br><br>
+ 
+・Remmel<br>
+Gitリポジトリ（Git Repository): https://github.com/uuttff8/Lemmy-iOS<br>
+ >A mobile client for lemmy in iOS(test flight).<br>
+
+ LemmyのiOS向けのモバイルアプリです。現在test flightに参加することができます。<br><br>
 
 
 
