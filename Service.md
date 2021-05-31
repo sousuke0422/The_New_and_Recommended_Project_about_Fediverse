@@ -41,6 +41,12 @@ In addition,this article is updated once two or three weeks.<br>
 ---
 
 # <div id="Mastodon"><b>1.Mastodon</b></div>
+・Florence-Social<br>
+Gitリポジトリ（Git Repository): https://github.com/florence-social/mastodon-fork<br>
+ >This is not the official version of Mastodon; this is a separate version (i.e. a fork) maintained by Florence.<br>
+
+ Florence(Fediverse Loves Open Responsible Ethical Networks for Communicating with Everyone)という団体が運用していたマストドンのフォークでした。現在はアーカイブ化されています。<br><br>
+
 ・DashboardFE<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
 >A frontend for Mastodon/Pleroma with heavy inspiration from the tumblr user dashboard.<br>
@@ -150,33 +156,14 @@ Gitリポジトリ（Git Repository): https://github.com/oe4dns/tootgroup.py<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/soapbox-pub/soapbox<br>
 >A federated social media server with a focus on user experience.<br>
 
-　Pleromaフォークの新しい分散型SNSです。<br><br>
+　リッチなユーザー体験に特化した、Pleromaフォークの新しい分散SNSです。<br><br>
 
 ・Soapbox-FE<br>
 公式サイト（Official Site）: https://soapbox.pub/<br>
 Gitリポジトリ（Git Repository): https://gitlab.com/soapbox-pub/soapbox-fe/<br>
 >A frontend for Pleroma with a focus on custom branding and ease of use.<br>
 
-Pleroma向けのフロントエンドUIです。<br>
-実験的ですが寄付機能をUI上に表示させることができます。<br><br>
-
-
-・Share freedom-extension<br>
-Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-extension<br>
- >Simplest add-on for the fediverse. Share web pages right from the toolbar button.<br>
-
-　firefox向けのアドオンで、表示されているタブのWebページを分散SNS上に簡単にシェアできます。現在、以下の分散SNSや通信プロトコルに対応しています。<br>
-    ・Gnusocial<br>
-    ・Mastodon / Misskey<br>
-    ・Hubzilla<br>
-    ・Diaspora<br>
-    ・Friendica<br>
-    ・Socialhome<br>
-    ・Lemmy<br>
-    ・Pleroma<br>
-    ・Osada / Zap / Zot6<br>
-    ・XMPP<br><br>
-
+Pleroma向けのフロントエンドUIです。<br><br>
 
 ・DashboardFE<br>
 Gitリポジトリ（Git Repository): https://notabug.org/daisuke/DashboardFE<br>
@@ -189,6 +176,22 @@ Gitリポジトリ（Git Repository): https://gitlab.com/gorfdotcom/gorf-fe<br>
  >Frontend for Pleroma and Mastodon<br>
 
  Pleromaサーバー( https://gorf.pub/ )のプロジェクトの一つで、PleromaとMastodon向けのFEです。<br><br>
+
+・Share freedom-extension<br>
+Gitリポジトリ（Git Repository): https://gitlab.com/mugcake/share-freedom-extension<br>
+ >Simplest add-on for the fediverse. Share web pages right from the toolbar button.<br>
+ 
+ firefox向けのアドオンで、表示されているタブのWebページを分散SNS上に簡単にシェアできます。現在、以下の分散SNSや通信プロトコルに対応しています。<br>
+    ・Gnusocial<br>
+    ・Mastodon / Misskey<br>
+    ・Hubzilla<br>
+    ・Diaspora<br>
+    ・Friendica<br>
+    ・Socialhome<br>
+    ・Lemmy<br>
+    ・Pleroma<br>
+    ・Osada / Zap / Zot6<br>
+    ・XMPP<br><br>
 
 ・FediPlan<br>
 Gitリポジトリ（Git Repository): https://framagit.org/tom79/fediplan<br>
