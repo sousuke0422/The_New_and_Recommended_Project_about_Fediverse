@@ -390,7 +390,7 @@ Gitリポジトリ（Git Repository）: https://github.com/Xeltica/misshaialert<
 公式サイト（Official Site）: https://miy.pw/<br>
 Gitリポジトリ（Git Repository）: https://github.com/MiyonMiyon/InstanceTicker/<br>
 開発者アカウント(Developer’s account): https://github.com/MiyonMiyon/<br>
- >#InstanceTicker is customCSS for Mastodon and Misskey. This makes it easier to see the server name! <br>
+ >#InstanceTicker is customCSS for Mastodon. This makes it easier to see the server name! <br>
  >#InstanceTicker は、Mastodon に対応するカスタムCSSで、投稿者のサーバー名（インスタンス）を表示することができる目的のものです。
 
 <br><br>
